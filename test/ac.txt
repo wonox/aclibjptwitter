@@ -1,0 +1,4104 @@
+[109839156, 817074074, 1219888003, 91033399, 998943950, 9676152, 3123338497, 18158100, 119401334, 82967815, 992134898, 67704024, 543860205, 624632599, 15411673, 5952502, 455562895, 382701793, 81536484, 779942876, 500344255, 270094380, 3240612883, 60058751, 2899027826, 1547340440, 874908174, 477347820, 186285677, 59784356, 177028999, 844965480, 301397566, 3092131890, 226861540, 274861066, 499562467, 598860381, 612335912, 414572047, 471721450, 599830498, 377777993, 1158739298, 384060070, 299975393, 423266686, 300026681, 253418764, 562435660, 432085357, 196544952, 193229938, 89881375, 266406428, 18370332, 2462549520, 143298778, 6131832, 2926948496, 68681208, 2694790693, 61063322, 957646880, 2492460673, 17464987, 2556165782, 148815591, 44780391, 1422549811, 1129125943, 17854412, 96519126, 528547886, 860896050, 102548049, 347098338, 1310194183, 157881307, 14390887, 986178979, 1479131581, 118747590, 1095670098, 588308841, 158947869, 1559693845, 15723551, 21799699, 277037314, 19601117, 532921388, 37989814, 1885840519, 19536353, 18197457, 29516133, 22826877, 491502607, 14667145]neme: DataCite
+@datacite
+RT @mfenner: In last two weeks more than 1000 people have authenticated with @datacite using their @ORCID_Org credentials.Thanks! https://t.co/JVPcxvDp1p
+671030590993469440
+2015-11-30 03:18:54 +0900
+Fav: 0, Retweet: 9
+neme: DataCite
+@datacite
+RT @abugseye: Many new tools that @CrossrefOrg is developing with @datacite w help of new @datacite staff such as @mfenner #crossref15 @gbilder
+667079739232899072
+2015-11-19 05:39:38 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @CrossrefOrg: We are now streaming #Crossref15 live beginning with a welcome from @epentz
+666998831423348736
+2015-11-19 00:18:08 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @egonwillighagen: @mfenner is now speaking about @datacite #lifesciencedata
+666948657384673280
+2015-11-18 20:58:45 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @wileyresearcher: Have you heard about @ORCiD_ORG's new Auto-Update tool? https://t.co/PIqDLUs7Mc @CrossrefOrg @DataCite
+666914624915247104
+2015-11-18 18:43:31 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @TheSAGrid: our presentation will mention THOR, @datacite @ORCID_Org + @OKFN because they're awesome. Help us find and liberate research data. #scigaia
+666910957155827712
+2015-11-18 18:28:57 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @AmberFirefly: My #opendata on @datadryadnew downloaded ~50 times - excited to see what people do with it! https://t.co/PDuIrLyacV https://t.co/r243DelK5S
+666270842179985408
+2015-11-17 00:05:22 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @ORCID_Org: Read all about #ORCID15! Thanks again to speakers, facilitators, sponsors (esp @github) &amp; all attendees! https://t.co/fODa1TNPRJ
+666270635937677312
+2015-11-17 00:04:32 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @varsha_khodiyar: Interesting use of @reddit for #OpenPeerReview of Arxiv posted papers prior to selection for conference presentation https://t.co/Wt1lDjDZDD
+666262856195809280
+2015-11-16 23:33:38 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @OSFramework: The OSF offers DOIs and ARKs for public registrations: https://t.co/1yUeaxUkD6 #OSFTips
+666262639404851201
+2015-11-16 23:32:46 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @wvanwezenbeek: Back at British Library for @datacite meeting. Nice exposition outside, this part is about ostrischizocracy. https://t.co/oOdFkKfx3E
+665448542497087488
+2015-11-14 17:37:50 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @usethedata: Purty. Thanks @rOpenSci (and @datacite) https://t.co/xAammtklPD
+665448277161152512
+2015-11-14 17:36:47 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @bzelip: Great talk by Geoffrey Boulton of @CODATANews on #openscience for the  NISO/ICSTI webinar. https://t.co/6d5YmEk2tV https://t.co/xIhLnccgBv
+664484023671066624
+2015-11-12 01:45:11 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @CrossrefOrg: Welcome to the new Crossref brand identity. Hope y'all like it! https://t.co/nv77GksGZT
+664408332665532416
+2015-11-11 20:44:25 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @andsdata: "Sharing scientific data: Astronomy as a case study for a change in paradigm": recording of the webinar now online https://t.co/jbbE7Mah6d
+664408000992530432
+2015-11-11 20:43:06 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @project_thor_eu: @datacite &amp; @ORCID_Org staff @espacial &amp; @tomdemeranville had a great time at #mozfest. Thanks @MozillaScience ! https://t.co/y8GebIJ90R
+664407760956694528
+2015-11-11 20:42:08 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @datacarpentry: Recommendations for resources on data management best practices? Discuss! https://t.co/ccNDkuCi6T
+664215797179531266
+2015-11-11 07:59:21 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @mercecrosas: Announcing the DataCite Profiles Service https://t.co/2KhVDoYEbW from the inspiring and innovative @mfenner
+664215724790034433
+2015-11-11 07:59:03 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+Besides the catchy title andUP is worth a look-up https://t.co/OaHCay1Gh2
+663907570893983744
+2015-11-10 11:34:34 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @researchremix: So proud to launch Depsy today w @jasonpriem -- our NSF-funded project to reimagine credit for research software: https://t.co/yRijVlTl5L
+663836994431160320
+2015-11-10 06:54:07 +0900
+Fav: 0, Retweet: 69
+neme: DataCite
+@datacite
+RT @researchremix: So proud to launch Depsy today w @jasonpriem -- our NSF-funded project to reimagine credit for research software: https://t.co/yRijVlTl5L
+663836994431160320
+2015-11-10 06:54:07 +0900
+Fav: 0, Retweet: 69
+neme: DataCite
+@datacite
+New @DataCite Profiles Service! Check it out. https://t.co/JTvfTa7RcG
+663811818427539456
+2015-11-10 05:14:05 +0900
+Fav: 3, Retweet: 4
+neme: DataCite
+@datacite
+RT @NateSilver538: How to tell good studies from bad ones? Bet on them. https://t.co/eERztXkfRc
+663810842152964096
+2015-11-10 05:10:12 +0900
+Fav: 0, Retweet: 88
+neme: DataCite
+@datacite
+RT @DataONEorg: DataONE Webinar tomorrow, 9am PT / Noon ET How &amp; Why Researchers Share Data w/ @lfliz Free registration https://t.co/k1OVaak2Ar #opendata
+663807980253548544
+2015-11-10 04:58:50 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @dataverseorg: Political Scientists Trying to Delay Research Transparency https://t.co/EpogXAF8kB via @PolSciReplicate #qualitativedata
+663807847335985152
+2015-11-10 04:58:18 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @CrossrefOrg: We'll record &amp; live stream our Annual Mtg for those that can’t make it. Links will be posted here, https://t.co/vkCyEOUJIQ #Crossref15
+663807781250555904
+2015-11-10 04:58:02 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @alexandredang6: Top story: @teknoteacher: 'Off-topic, but I love @tomdemeranville's taste in sh… https://t.co/Bw5Y9oyqaL, see more https://t.co/hes5x149kV
+663367191006470144
+2015-11-08 23:47:17 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Going hands-on! #mozfest #mozopensci @project_thor_eu @ORCID_Org https://t.co/TQA9QQIRMe
+663339652489814016
+2015-11-08 21:57:52 +0900
+Fav: 9, Retweet: 3
+neme: DataCite
+@datacite
+@mozillafestival 404: Page not found – the page https://t.co/ycFKRBMKQ5 does not exist :(
+663047383534706688
+2015-11-08 02:36:29 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Thanks for joining! #mozfest #mozopensci @scimpact_org @bertez @rmounce @nickynicolson @jenlinden @robknight_ &amp;rest! https://t.co/HmQrzb5ktp
+663018710551121920
+2015-11-08 00:42:33 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+Kickstarting #MozFest! Floor 9 is waiting for you to make science better! #MozOpenSci https://t.co/X5GnbTjHfF
+662927689121181697
+2015-11-07 18:40:52 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @carlystrasser: Good news from NEH - they are releasing successful #DMPs. Maybe @NSF will follow suit? https://t.co/2sG8rWSyeX
+662667626913509376
+2015-11-07 01:27:28 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @danielskatz: I just published my latest #openaccess article (Transitive Credit and JSON-LD) with @arfon on @up_jors: https://t.co/onxXVhwzPy
+662288088442343425
+2015-11-06 00:19:19 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @UniSotonLibrary: We also have useful help and guidance on Research Data Management on our webpages: https://t.co/UTFWgyNiLT
+661534119625641984
+2015-11-03 22:23:19 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @trishacruse: New post on @datacite blog and my new position https://t.co/9ZRMx9WM8H
+661248728481849344
+2015-11-03 03:29:16 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+And for the other side of the world and those who didn't wake up early, @trishacruse is our new Executive Director! https://t.co/U1nCNSvGM0
+661222607065366528
+2015-11-03 01:45:29 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+See you at #mozfest this weekend with our @project_thor_eu colleagues! https://t.co/xKxfdEoZp6 @MozillaScience @mozillafestival
+661211020782927872
+2015-11-03 00:59:26 +0900
+Fav: 3, Retweet: 2
+neme: DataCite
+@datacite
+RT @ODIHQ: Ingredients for #opendata success: 'a clear vision, support across gov and culture change champions' #ODITraining https://t.co/O6iLCeqBHh
+661207745731907584
+2015-11-03 00:46:25 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @ekansa: BTW: It's RAINING, in the San Francisco Bay Area. I'm so happy to report!
+661199807030034432
+2015-11-03 00:14:53 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @trishacruse: Thrilled to be working @datacite with such a great team.
+661197521268703232
+2015-11-03 00:05:48 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @trishacruse: Thrilled to be working @datacite with such a great team.
+661197521268703232
+2015-11-03 00:05:48 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @danielskatz: Software metrics: what to count and how -  https://t.co/mh2z9RuFHs #openscience #softwarecredit #opensource #software #metrics #credit
+661194305558548480
+2015-11-02 23:53:01 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+Great news! DataCite Appoints Patricia Cruse (@trishacruse) as Executive Director! https://t.co/U1nCNSvGM0
+661104868879376384
+2015-11-02 17:57:38 +0900
+Fav: 6, Retweet: 13
+neme: DataCite
+@datacite
+RT @atreloar: Brill and DANS Launch a New Open Access Research Data Journal. Congratulations to @pkdoorn and @DANSKNAW! https://t.co/dc3b7PDEfn
+660942129674391552
+2015-11-02 07:10:58 +0900
+Fav: 0, Retweet: 19
+neme: DataCite
+@datacite
+RT @rosalielack: Two areas that @arfon says open source is not great at archiving and (formal) metadata; two things libraries are very good at #softciteucd
+660233702086041600
+2015-10-31 08:15:55 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @danielskatz: more for #SoftCiteUCD folks: F11 WG on Software Citation - https://t.co/A1ZEEwyukf
+660185863020634112
+2015-10-31 05:05:50 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @theWinnower: We need to change our culture http://t.co/NTv2CXCzGI by @gerrygcarter http://t.co/X8sVIJg3zP
+659816834229661696
+2015-10-30 04:39:26 +0900
+Fav: 0, Retweet: 240
+neme: DataCite
+@datacite
+RT @CrossrefOrg: Join our webinar today at 11 AM ET to learn more about Crossref/ORCID Auto-Update, https://t.co/XDgVpvH9Lh
+659733449398427649
+2015-10-29 23:08:06 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @iassistdata: New @WhiteHouse Open Government National Action Plan. Includes commitment to open data... https://t.co/Lb0376ISxB
+659524153708380161
+2015-10-29 09:16:26 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @mercecrosas: Fantastic review on the Technological Landscape for Data Publishing by Ray Plante @NatDataService @usnistgov https://t.co/3I6Yn8xZgL
+659482065948143616
+2015-10-29 06:29:11 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @TheDMPTool: New 2015 NSF-BIO template is activated. Read all about it on the blog: https://t.co/YwPY2deioX #OSTPResp
+659481999959166977
+2015-10-29 06:28:56 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @_inundata: Conferences that ask for abstracts 1 year ahead of event. Really?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+659142813351735296
+2015-10-28 08:01:07 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @andsdata: Here's this week's andsUP newsletter: https://t.co/XdpknYONQ4 Includes new issue of share; eResearch report; job vacancies; data on kids' TV
+659138341095370753
+2015-10-28 07:43:21 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @SusannaASansone: 10 simple rules #Data Management plan - citing @isatools &amp; @biosharing #standards #databases https://t.co/xwvbtHpiCl https://t.co/tiHSthJRbw
+659117136963502081
+2015-10-28 06:19:05 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @CrossrefOrg: Crossref/@ORCID_Org Auto-Update - Learn more during our webinar Thu Oct 29 11 AM ET, Register here https://t.co/XDgVpvH9Lh
+659003012128645120
+2015-10-27 22:45:36 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @figshare: Using Figshare to automate workflows for an innovative #OpenScience publishing model:
+
+https://t.co/CoY8OzgK3k
+659002523714519040
+2015-10-27 22:43:39 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @digitalsci: The rise of data-intensive research is increasing the need for collaborative science. https://t.co/MpfMjJrREI via @naturejobs
+658988304746967040
+2015-10-27 21:47:09 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @andsdata: Info about the ORCID Consortium Model with links to more info is on ANDS' website at https://t.co/kALmdBztNx
+658763109830520833
+2015-10-27 06:52:19 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @kevinguthrie: @hmason #ithakaTNW 2 principles of ethical data management: 1 don't sell data w/o asking permission; 2.don't keep data longer than essential
+658703528488120320
+2015-10-27 02:55:33 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+Thanks @mfenner for the illustration https://t.co/Hp47C3CYVq
+658648449588420608
+2015-10-26 23:16:42 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Thanks @mfenner for the illustration https://t.co/Hp47C3CYVq
+658648449588420608
+2015-10-26 23:16:42 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @GinnyLDN: Check out Crossref's new twitter name. Goodbye CrossRefNews, hello @CrossrefOrg! #EveryCharacterCounts
+658630294841389056
+2015-10-26 22:04:33 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+It's officially here! Announcing the auto-update of ORCID records from Crossref &amp; Datacite! @ORCID_Org @CrossrefOrg https://t.co/vImAX1iPGN
+658629863524450305
+2015-10-26 22:02:50 +0900
+Fav: 3, Retweet: 12
+neme: DataCite
+@datacite
+Amen! https://t.co/taqZtuRdZq
+657589373316128769
+2015-10-24 01:08:18 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @NCI_NCIP: #NCI CBIIT Speaker Series Oct. 28, 11am, @datacite's Dr. Martin Fenner to discuss Data-Level Metrics. Join via WebEx https://t.co/cekNvpSc1a
+657589270077689858
+2015-10-24 01:07:54 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @CamOpenData: .@Fiona_CRUK: "Only 11% of researchers feel that sharing data is valued to the same extent as traditional publishing" at #scidata15
+657577174443032580
+2015-10-24 00:19:50 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @dataverseorg: Room for Debate: Incentivize Data Sharing of Genomic Information via NYT https://t.co/j3uqPjozuB
+657297934124367872
+2015-10-23 05:50:14 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @tudelftlibrary: Want to become an 'Informed Scientist'? Come to our Information and data skills workshop for PhD students! https://t.co/9gQEJdOkXh
+657203589232771072
+2015-10-22 23:35:20 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @project_thor_eu: Presenting THOR at @ict2015eu! https://t.co/nLULyRb6ES
+657122163212816384
+2015-10-22 18:11:47 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+@chodacki congratulations and @CalDigLib congratulations for landing John https://t.co/c4Jumv2JgS
+656950182546837504
+2015-10-22 06:48:23 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+RT @carlystrasser: "Open science isn’t a movement, it’s just (good) science. It’s also the future." https://t.co/74IMFR8hY8
+656887415202705408
+2015-10-22 02:38:58 +0900
+Fav: 0, Retweet: 22
+neme: DataCite
+@datacite
+RT @ICPSR: Job opportunity: Direct the Resource Center for Minority Data (RCMD) at ICPSR: https://t.co/Mzo5liiIEl https://t.co/5rFBL99x0b
+656856247195402242
+2015-10-22 00:35:07 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @andsdata: Reminder: ORCID webinar tomorrow 1:30pm AEST. Details and register: https://t.co/9tcyjeUvTx
+656855278743191552
+2015-10-22 00:31:16 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @juretriglav: Great ongoing discussion about #softwaremetrics in science here https://t.co/RduJ2ZkIgg Do join in! @mfenner @recology_ @_inundata @asclnet
+656512581327151105
+2015-10-21 01:49:31 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @lfliz: Nice double act from @sorcha_ni and @mfenner on status and challenges of data citation at #copdess https://t.co/B33xOVnZzj
+656505108314722304
+2015-10-21 01:19:49 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @recology_: the argument that other people will use your data inappropriately has to die
+656504844207783936
+2015-10-21 01:18:46 +0900
+Fav: 0, Retweet: 14
+neme: DataCite
+@datacite
+RT @CLIRDLF: Everyone is invited to watch the #DLFforum livestream; you'll need a (free) password for access. Get yours here! https://t.co/bmGVX4lOEh
+656504799337181186
+2015-10-21 01:18:36 +0900
+Fav: 0, Retweet: 22
+neme: DataCite
+@datacite
+RT @mfenner: New blog post by @juretriglav:  Why we need a hub for software in science https://t.co/LhbKJh8VrZ #softwarecredit
+656463770240184321
+2015-10-20 22:35:33 +0900
+Fav: 0, Retweet: 25
+neme: DataCite
+@datacite
+RT @andsdata: Happy World Statistics Day! Better data, better lives. https://t.co/5AZkqwlcL6 #StatsDay15 https://t.co/Vwc7PW5UR5
+656227496862416897
+2015-10-20 06:56:42 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @skonkiel: Librarians petition @PLOS to have IRs added to the list of preferred data repositories https://t.co/PKUkPd22ly #datalibs
+656177764458885120
+2015-10-20 03:39:04 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @skonkiel: Librarians petition @PLOS to have IRs added to the list of preferred data repositories https://t.co/PKUkPd22ly #datalibs
+656177764458885120
+2015-10-20 03:39:04 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+Join #NCI CBIIT Speaker Series as @mfenner discusses data level metrics, data citation, @datacite emerging services https://t.co/RhZrjtWrRv
+656168697308930048
+2015-10-20 03:03:03 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @SoftwareSaved: Curation of persistent identifiers: one thing to make code citable, another thing to actually get people to cite it #SoftwareCredit
+656132401840549889
+2015-10-20 00:38:49 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@mfenner new blog post on software citation #softwarecredit and workflows http://t.co/PCiNM9KCDx https://t.co/a5IlCLscHT
+656123860123684864
+2015-10-20 00:04:53 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+Happy #OAWeek! Open Data for Better Research  http://t.co/M7gXb1UWvl
+656104596155297792
+2015-10-19 22:48:20 +0900
+Fav: 2, Retweet: 9
+neme: DataCite
+@datacite
+RT @nickynicolson: 2nd #softwarecredit lightning talk: @mfenner refs @DataCite blog post: http://t.co/5DEjZBtsim
+656100081603649537
+2015-10-19 22:30:23 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @GinnyBarbour: Where we are with #openaccess and what more needs to happen. My take on it at the beginning of #oaweek https://t.co/fM0fqMZ6nG
+655936756894728192
+2015-10-19 11:41:24 +0900
+Fav: 0, Retweet: 23
+neme: DataCite
+@datacite
+RT @chodacki: Write it on your CV in bold block letters "I will not publish in non-OA journals" @mbeisen #lauc
+655926066918195200
+2015-10-19 10:58:55 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @mfenner: New post on the @datacite blog: Happy Birthday ORCID http://t.co/9DFdA9h8KL @ORCID_Org
+655062113648513025
+2015-10-17 01:45:53 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @ORCID_Org: It's our third anniversary! Exec Director @HaakYak celebrates in this blog post: http://t.co/jgeumtWCVx
+655011678636154880
+2015-10-16 22:25:28 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+RT @MooreFound: Are you ready for #ShakeOut tomorrow? "Drop, Cover, and Hold On" with over 10M Californians at 10:15AM. http://t.co/qRVz0X9zy5
+654447682321125377
+2015-10-15 09:04:21 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @andsdata: Webinar: Sharing scientific data - astronomy as a case study Mon 2 Nov 12:30pm AEST. Details &amp; register: https://t.co/IndQCLa2YM
+654447056635883520
+2015-10-15 09:01:51 +0900
+Fav: 0, Retweet: 9
+neme: DataCite
+@datacite
+RT @CrossrefOrg: 2015 Annual Meeting: Speakers Announced http://t.co/QI9Gj5AHFc
+654446827454885888
+2015-10-15 09:00:57 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @Jisc: Institutions should take more risks when it comes to #socialmedia, says @briankelly http://t.co/zGgzZGv3D5 #edtech #jisc50social
+654397891444887552
+2015-10-15 05:46:30 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+@ORCID_Org @CrossrefOrg @force11rescomm metadata &amp; contributor information in @datacite blog http://t.co/TpdifalGwR https://t.co/suJlFyIGM5
+653586829111771140
+2015-10-13 00:03:37 +0900
+Fav: 1, Retweet: 6
+neme: DataCite
+@datacite
+Find all the slides from our last event! https://t.co/ET3cDeXgTp
+650954851149565952
+2015-10-05 17:45:05 +0900
+Fav: 3, Retweet: 5
+neme: DataCite
+@datacite
+A recap of our event on PIDs and data intensive research: http://t.co/YTvQUOqF8R
+650954676393902080
+2015-10-05 17:44:23 +0900
+Fav: 4, Retweet: 4
+neme: DataCite
+@datacite
+Nice overview @mfenner @datacite of citation standards and bibliometrics https://t.co/VgolVS6BVf
+649955172211298305
+2015-10-02 23:32:43 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+RT @mfenner: New blog post on @datacite blog: Thoughts on the Research Data Alliance 6th Plenary http://t.co/hjNVhi4bfw #rdaplenary
+649954023471079425
+2015-10-02 23:28:09 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @ICPSR: Now streaming: The Sleuthful Data Steward. #icpsr http://t.co/inwfk5VLOb
+649953414420402176
+2015-10-02 23:25:44 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ICPSR: Now streaming: The Sleuthful Data Steward. #icpsr http://t.co/inwfk5VLOb
+649953414420402176
+2015-10-02 23:25:44 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @garybcross: Animal monitoring via BIOPIC as part of experimentation showcase #RDAPlenary @resdatall @datacite @datadryad @data http://t.co/KwE9phXqMm
+646981266861125632
+2015-09-24 18:35:29 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @alicejmeadows: @mfenner tells us he was so excited about data metrics project he joined @datacite! #rdaplenary
+646656366522855424
+2015-09-23 21:04:26 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @alicejmeadows: Callaghan asks everyone to help complete Google spreadsheet of existing data metrics http://t.co/AtvXsWAaVe #RDAplenary
+646652600402714624
+2015-09-23 20:49:28 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+Recommendations for data publishing: start small, follow the standards, simplify data citation using PIDs #rdaplenary http://t.co/30I58BkjkB
+646620673952104449
+2015-09-23 18:42:36 +0900
+Fav: 9, Retweet: 14
+neme: DataCite
+@datacite
+RT @dara_info: PID interest group: connections and notifications #orcid #doi #crossref #RDAPlenary http://t.co/Ba3JmW5NcV
+646619404994768896
+2015-09-23 18:37:34 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @simonhodson99: Barbara Ryan, GEO, on the huge increase in Landsat data use once the data was made free and Open #RDAPlenary http://t.co/WNfpPFUZxH
+646603912234037248
+2015-09-23 17:36:00 +0900
+Fav: 0, Retweet: 14
+neme: DataCite
+@datacite
+RT @wclenhardt: Mark Parsons @chutneyboy #rdaplenary,  data sharing is a grand challenge at the level of other grand science challenges.
+646591671606579200
+2015-09-23 16:47:22 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+@alicejmeadows @chutneyboy @ORCID_Org We all work to make research better together!
+646591406069403648
+2015-09-23 16:46:18 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+Good morning! #RDAPlenary
+646582527784845312
+2015-09-23 16:11:02 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @mfenner: Announcing the 2:AM Hackday, Oct 6 in Amsterdam. Two altmetrics workshops and ample time to hack and discuss. https://t.co/bl0ExYeTOT
+646581560267948032
+2015-09-23 16:07:11 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @resdatall: We have an impressive audience of almost 600 at RDA's 6th Plenary in Paris!  Thank you to all who are here!  #rdaplenary
+646581468563701760
+2015-09-23 16:06:49 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @SusannaASansone: Thank you @datacite 4 spectacular view reception last nite #pid_paris. See u all @RDA_Europe @resdatall #RDAPlenary http://t.co/vaJAkbmdzc
+646269454616276992
+2015-09-22 19:26:59 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+New blog post about our event yesterday! #pid_paris http://t.co/pELzHS4dpV
+646267834675392512
+2015-09-22 19:20:33 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+Great views! #pid_paris http://t.co/pWPbfoE2bm
+646000851794980865
+2015-09-22 01:39:39 +0900
+Fav: 4, Retweet: 0
+neme: DataCite
+@datacite
+Second round table, still standing! #pid_paris http://t.co/ehngSkE5Ge
+645983872187023360
+2015-09-22 00:32:11 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+@PHerterich Of course!!
+645983520490438659
+2015-09-22 00:30:47 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@carlystrasser :D
+645981531836686336
+2015-09-22 00:22:53 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+More stickers? Just ask for them! :) http://t.co/uiTD1SzASz
+645980651632623617
+2015-09-22 00:19:23 +0900
+Fav: 3, Retweet: 0
+neme: DataCite
+@datacite
+RT @chodacki: @plos @dataoneorg @caldiglib on making data count http://t.co/a8biFL1BPx #pid_paris
+645979102177005568
+2015-09-22 00:13:14 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @chodacki: @plos @dataoneorg @caldiglib on making data count http://t.co/a8biFL1BPx #pid_paris
+645979102177005568
+2015-09-22 00:13:14 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+.@jenniferlin15 Citations suffer from technical and cultural obstacles #pid_paris http://t.co/PxhlyvjSjU
+645978494678253568
+2015-09-22 00:10:49 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+@project_thor_eu has an Ambassador Programme to benefit from expertise of a widespread network #pid_paris
+645974819046060032
+2015-09-21 23:56:13 +0900
+Fav: 1, Retweet: 6
+neme: DataCite
+@datacite
+Suenje Dallmeier-Tiessen: @project_thor_eu supports technical development, training and outreach actions http://t.co/WkLE8BT3wM
+645973569395118080
+2015-09-21 23:51:15 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+Peter Wittenburg: metadata is a digital object as well and should be referenceable http://t.co/X6bdRWPnqZ
+645969952126730242
+2015-09-21 23:36:52 +0900
+Fav: 3, Retweet: 2
+neme: DataCite
+@datacite
+@klehnert1IGSN's challenge: a core metadata schema with a controlled but flexible vocabulary #pid_paris http://t.co/9KwF1SnIsO
+645967582332366848
+2015-09-21 23:27:27 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+Anne Cambon-Thomsen: CoBRA, standardizing citation of bioresources using PIDs #pid_paris http://t.co/QXHj8GeXv8 http://t.co/TbUj7nW1aZ
+645964076804276225
+2015-09-21 23:13:31 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+@chodacki this is perfect for @mfenner @datacite is lucky to have his skillset
+645963835556392960
+2015-09-21 23:12:34 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @dara_info: Topics of the discussion see at http://t.co/mhmPKnMnO5 #Pid_paris
+645962106613956608
+2015-09-21 23:05:42 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Long term archival! #pid_paris http://t.co/vdqN4x0vKj
+645961491263438848
+2015-09-21 23:03:15 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+Tobias Weigel talks about infrastructure to support data replication, versions and collections #pid_paris http://t.co/zx6VERBdt8
+645960334231138304
+2015-09-21 22:58:39 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Round table... without chairs :) #pid_paris http://t.co/jXh1tVuxNq
+645944999692120065
+2015-09-21 21:57:43 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+Anila Angjeli: ISNI uniquely identifies Brian May music god and astrophysics PhD! #pid_paris http://t.co/2apAocjSuy
+645942364243030018
+2015-09-21 21:47:15 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+@lpaglione: @ORCID_Org is using established standards instead of creating new ones http://t.co/R0BANIkuMw
+645937690530181122
+2015-09-21 21:28:41 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+@elisedunham Thanks Elise! We'll fix it for the next presentation!
+645934629611044864
+2015-09-21 21:16:31 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@jakkbl ARKs are designed for decentralized resolution #pid_paris http://t.co/zeNSIVt3xG
+645932993652097024
+2015-09-21 21:10:01 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+Larry Lannom: PIDs seemed like a simple problem to solve #pid_paris http://t.co/wDAV7fYAym
+645929163392708608
+2015-09-21 20:54:47 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+Non-stop! https://t.co/CyygVog9r2
+645927289763569664
+2015-09-21 20:47:21 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+@CameronNeylon You can also join our discussion here http://t.co/bB7Xr3s8vr
+645926071876063232
+2015-09-21 20:42:30 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@CameronNeylon unfortunately there is not a live stream for #PID_Paris but @datacite will supply presentations and a transcript of Q and A
+645925672720973824
+2015-09-21 20:40:55 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@CameronNeylon unfortunately there is not a live stream for #PID_Paris but @datacite will supply presentations and a transcript of Q and A
+645925672720973824
+2015-09-21 20:40:55 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Ulrich Schwardmann: EPIC supports the complete data lifecycle #pid_paris http://t.co/p2js4Y3Gli
+645925600876736512
+2015-09-21 20:40:38 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Full room to discuss Persistent Identifiers for Data Intensive Research #pid_paris http://t.co/FVQLx8hYoP
+645921435593125888
+2015-09-21 20:24:05 +0900
+Fav: 9, Retweet: 14
+neme: DataCite
+@datacite
+@mfenner and @gbilder are the DOI mythbusters! http://t.co/6cuScyLatf
+645920798671269888
+2015-09-21 20:21:33 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+RT @atreloar: #PID_Paris Good idea to think of DOIs as a combination of the social contract and metadata services. Need both!
+645919993675280384
+2015-09-21 20:18:21 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+@wvanwezenbeek See you this afternoon!
+645883036974850048
+2015-09-21 17:51:30 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Getting ready! #pid_paris http://t.co/ikTEnh4Qlg
+645881582180507648
+2015-09-21 17:45:43 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @mfenner: New post on the @datacite blog: Differences between ORCID and DataCite Metadata http://t.co/elBdXsrNUl @project_thor_eu
+644859251744108545
+2015-09-18 22:03:21 +0900
+Fav: 0, Retweet: 23
+neme: DataCite
+@datacite
+RT @epentz: Important upcoming @CrossrefOrg policy change - by end of year we will accept preprints - working on update to policies/rules for November
+644858868942548992
+2015-09-18 22:01:49 +0900
+Fav: 0, Retweet: 24
+neme: DataCite
+@datacite
+RT @CrossrefOrg: Big news, our DOI Event Tracker (DET) pilot is poised for launch! Catch us at #coasp @oaspa for Qs. Announcement at http://t.co/D22TCmGuc1
+643790503482392576
+2015-09-15 23:16:31 +0900
+Fav: 0, Retweet: 26
+neme: DataCite
+@datacite
+Great things happening @andsdata  https://t.co/KPE75kDebK
+643638656742195200
+2015-09-15 13:13:08 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+DataCite+EPIC event: less than 7h to close the registration and 130+ people. Thank you! See you all in Paris! http://t.co/j0HEFJccS4
+643352933250285569
+2015-09-14 18:17:46 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @alicejmeadows: Crotty: 3 main routes to complying w/ OSTP memo on #publicaccess. @CHORUSaccess, PMC, develop own repository #alpsp15
+642179674324340736
+2015-09-11 12:35:40 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @resdatall: Interested in learning more about RDA's Endorsed Outputs?  Attend our webinar on 9/16.  http://t.co/lRJ9TvR1rv
+642008967007326212
+2015-09-11 01:17:20 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @joan_starr: J Kunze's poster abt @ezidCDL at #DCMI2015 now at http://t.co/QR95Gje4WH and also on http://t.co/7xWzlRHLQe #data #citation #identifiers
+641670542316072960
+2015-09-10 02:52:33 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+We very pleased to announce a new Data-Level-Metrics service and look forward to hearing feedback https://t.co/mnN9iFVOeO
+641667137107456000
+2015-09-10 02:39:01 +0900
+Fav: 3, Retweet: 12
+neme: DataCite
+@datacite
+RT @Jisc: #OpenAccess implementation step 3 – implement a communications strategy. There are 9 more steps on our blog
+
+http://t.co/0JD0THqN6n #jiscoa
+641219492069154816
+2015-09-08 21:00:14 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @DST4L: Why run #DST4L? Librarians as data scientists = key actors in #OpenData by default #libraryfutures @DigitalAgendaEU http://t.co/ld6ohs0JfU
+641189882535219200
+2015-09-08 19:02:35 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @mfenner: Finding other works by co-author named Smith? New feature in @datacite labs search allows this using @ORCID_Org, e.g. http://t.co/gZDFHNUXdE
+640922359851945985
+2015-09-08 01:19:33 +0900
+Fav: 0, Retweet: 18
+neme: DataCite
+@datacite
+Last spots for the DataCite+EPIC event on PIDs and Data Intensive Research! Join us the 21st Sept in Paris! http://t.co/j0HEFJccS4
+640828832526827520
+2015-09-07 19:07:54 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Last spots for the DataCite+EPIC event on PIDs and Data Intensive Research! Join us the 21st Sept in Paris! http://t.co/j0HEFJccS4
+640828832526827520
+2015-09-07 19:07:54 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @mfenner: New post on the @datacite blog: Using YAML frontmatter with CSV http://t.co/wga3RpDE2C Special thanks to @jrovegno
+639823429667979264
+2015-09-05 00:32:47 +0900
+Fav: 0, Retweet: 12
+neme: DataCite
+@datacite
+RT @ScientificData: August's most accessed article: "Making data count" by @john_kratz and @carlystrasser http://t.co/7fEmZ5zy1U
+639821862780846080
+2015-09-05 00:26:34 +0900
+Fav: 0, Retweet: 21
+neme: DataCite
+@datacite
+RT @iassistdata: A Research Data Management primer by @carlystrasser / NISO [PDF]
+http://t.co/oHexZQ1KmM
+639076864481296384
+2015-09-02 23:06:12 +0900
+Fav: 0, Retweet: 13
+neme: DataCite
+@datacite
+RT @andsdata: TOMORROW-Perth Sharing Health-y &amp; Sensitive Data: Challenges and Solutions 9:30-12:30 http://t.co/aflGSQJvBT
+638906634425643008
+2015-09-02 11:49:46 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @DataONEorg: The Data Flood: A free webinar by @leinen4ocean on implications for data stewardship. Tues 9/8 Register at http://t.co/GuMlmmzbLj #DWS2015
+638554897634357248
+2015-09-01 12:32:06 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @datadryad: "These are wild west days for data citation" says @jenniferlin15 http://t.co/lNsBcLVh80
+638554777006137348
+2015-09-01 12:31:37 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @andsdata: andsUP:  http://t.co/5CDQDfU6fW Unicorns &amp; Data Librarians, New resources, Clinical data disclosure, Darwin-Perth-Canberra-Adelaide events
+638553430219337728
+2015-09-01 12:26:16 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @mfenner: New guest post by @jenniferlin15 on the @datacite blog: When Counting is Hard http://t.co/8HDwtaAsSV
+638409039651581952
+2015-09-01 02:52:30 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+Congrats @CrossrefOrg looking forward to more great things ahead with @jenniferlin15  https://t.co/swabl4iDjk
+636988075889942528
+2015-08-28 04:46:06 +0900
+Fav: 2, Retweet: 0
+neme: DataCite
+@datacite
+RT @CRAWDADdata: You can now cite CRAWDAD datasets using @datacite DOIs. DOI details are on each dataset page.
+636889455887056896
+2015-08-27 22:14:13 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @_inundata: I got some #mooredata  stickers from @carlystrasser to cheer up. http://t.co/OvbUxiW4Vr
+636745793966247936
+2015-08-27 12:43:22 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @tjvision: Think you know what's behind the correlation between citation counts and short article titles? OK, have at the data: http://t.co/5cNVSXmdgH
+636745578613837824
+2015-08-27 12:42:30 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @re3data: Introduction of the http://t.co/MLHB58BkOn persistent identifier: http://t.co/gkn3UtYJGS #OpenScience #RDM #DOI
+636533228770344961
+2015-08-26 22:38:42 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+RT @project_thor_eu: DOI for geoscience data – how early practices shape present perceptions http://t.co/uWfTHkr2XN
+635857544225812480
+2015-08-25 01:53:46 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @gbilder: ICYMI: The Question of Data Integrity in Article-level Metrics @jenniferlin15 @SSRN @richardcave http://t.co/hzRWqrTjdN
+635857478266175488
+2015-08-25 01:53:31 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @ScientificData: Reminder: 2 weeks left to submit comments on our draft guidelines for sharing and publishing clinical data http://t.co/A4ZUzPz27B
+635857175919747072
+2015-08-25 01:52:19 +0900
+Fav: 0, Retweet: 13
+neme: DataCite
+@datacite
+RT @mercecrosas: New paper on "Dataverse 4: Defining Data Publishing" for special issue on Research Data Publishing: http://t.co/5ryiVfdDE0 @dataverseorg
+635026450467287040
+2015-08-22 18:51:18 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @ScientificData: .@research_uk looking for feedback on their 10 key principles for good #opendata practice http://t.co/MO6bVW5JEN
+634477683460718592
+2015-08-21 06:30:42 +0900
+Fav: 0, Retweet: 14
+neme: DataCite
+@datacite
+RT @ORCID_Org: @datacite "about 500 DOIs with associated ORCIDs created every month" http://t.co/ywj7kn0Ppw
+634475158179201024
+2015-08-21 06:20:40 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ORCID_Org: @datacite "about 500 DOIs with associated ORCIDs created every month" http://t.co/ywj7kn0Ppw
+634475158179201024
+2015-08-21 06:20:40 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+New blog post: Digging into DataCite metadata using R! @rOpenSci @datadryad @ORCID_Org @ZENODO_ORG http://t.co/O2mmP3F1RQ
+634437073198542849
+2015-08-21 03:49:20 +0900
+Fav: 4, Retweet: 6
+neme: DataCite
+@datacite
+RT @billdoesphysics: New blog post on my scheme for how scientific software developers can supercharge #openscience: http://t.co/MQxlZkqysb
+634082590950060033
+2015-08-20 04:20:45 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @mercecrosas: New @datacite Lab Search with "single search box" and useful cite formats for datasets registered @datacite http://t.co/5cD44cDYtZ @mfenner
+634081613442383873
+2015-08-20 04:16:51 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+@hrzepa's blog: DataCite serves to add the F to FAIR (Findable, Accessible, Interoperable and Reusable). Thanks! https://t.co/mzMfjuiUHk
+633996591033151488
+2015-08-19 22:39:01 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @Stew: Found a bunch of figshare records I'd forgotten were there! https://t.co/FVosxCmGFG
+633566497454034945
+2015-08-18 18:09:58 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @melbaek: New @datacite Labs Search looks pretty promising. @mfenner explains on the DataCite blog http://t.co/oXMEqn0AOG #researchdata #data
+633564406614507520
+2015-08-18 18:01:40 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @Jisc: What is #OpenScience? And why support it? Find out in the latest @Jisc blog, by @mdovey http://t.co/mvm7UA6opc http://t.co/b97KSMVDFq
+633440562494894080
+2015-08-18 09:49:33 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @stephbradbury: 23 things: libraries and research data https://t.co/ShPltvPdr0 @resdatall #wlic2015  @ifla
+633363138226835456
+2015-08-18 04:41:54 +0900
+Fav: 0, Retweet: 22
+neme: DataCite
+@datacite
+great news:  https://t.co/nWogBO4tmG
+633343136807325697
+2015-08-18 03:22:25 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @research_uk: Via RCUK: RCUK seeks feedback on good practice guidelines for open research data: Research Councils UK, on beh... http://t.co/rcX4G11OPb
+633325828064038912
+2015-08-18 02:13:38 +0900
+Fav: 0, Retweet: 42
+neme: DataCite
+@datacite
+RT @DataCiteTech: Maintenance on http://t.co/bZLAKqqNYw 18th Aug at 9:30 CEST. The website might be unavailable for a few minutes. No other service affected.
+633324867853512705
+2015-08-18 02:09:49 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @Jisc: Do you understand your data? Our updated guide is here to help you make the most of it http://t.co/WVu79v0spn #edtech
+632894191870148612
+2015-08-16 21:38:28 +0900
+Fav: 0, Retweet: 28
+neme: DataCite
+@datacite
+RT @mfenner: New blog post on the @datacite blog: Reference Lists and Tables of Content http://t.co/FQ0VHGVEIg
+632193831702654982
+2015-08-14 23:15:29 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@SHARE_research is doing a great job, neat interface! https://t.co/1rHxTDaiXr
+632152393363406849
+2015-08-14 20:30:50 +0900
+Fav: 2, Retweet: 0
+neme: DataCite
+@datacite
+RT @mfenner: From the @CrossrefOrg Tech blog, but also relevant for @datacite: DOIs and matching regular expressions http://t.co/RAJr0dXGMO
+632149040235474944
+2015-08-14 20:17:30 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @datadryad: Workshops to Implement Data Citation Principles in Australia, China, India, Japan &amp; S. Africa    http://t.co/0MpUc4wHEF via @CODATANews
+632105530446712832
+2015-08-14 17:24:37 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @datacarpentry: Thrilled to announce we have received a grant from @MooreFound to provide training to enable data-driven discovery! http://t.co/xvQDxE8R3K
+632105508707672064
+2015-08-14 17:24:31 +0900
+Fav: 0, Retweet: 101
+neme: DataCite
+@datacite
+Join us for the DataCite/EPIC event on PIDs and Data Intensive Research just before the @RDA_Europe plenary in Paris http://t.co/fqjO100M8A
+631387666488164352
+2015-08-12 17:52:04 +0900
+Fav: 4, Retweet: 3
+neme: DataCite
+@datacite
+RT @mfenner: Citing Medicine: The NLM Style Guide (also known as Vancouver Style) has been updated http://t.co/bh5lcEVCiz
+631232594227494913
+2015-08-12 07:35:52 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @mfenner: Citing Medicine: The NLM Style Guide (also known as Vancouver Style) has been updated http://t.co/bh5lcEVCiz
+631232594227494913
+2015-08-12 07:35:52 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @mercecrosas: @dataverseorg @Harvard Dataverse has now more than 59,000 data sets: https://t.co/l2j102aSKS #datasharing
+631229256274739201
+2015-08-12 07:22:37 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @project_thor_eu: Persistent Identifiers: Enabling Services for Data Intensive Research http://t.co/q3eIXQQ7Fp http://t.co/hEe5yQfFQi
+631197997175578624
+2015-08-12 05:18:24 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Check out our new blog post: Overcoming Deployment Pain by @mfenner http://t.co/lTdgHN5jV9
+631197641578270720
+2015-08-12 05:16:59 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @_inundata: Dealing with software and data is still a huge problem for tenure committees. #jsm2015 http://t.co/CE66yRi0NK
+631150158290534400
+2015-08-12 02:08:18 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+RT @figshare: Our 'figshare for institutions' microsite is now live, with info on how we help with #RDM: http://t.co/tDVrSZaOLp http://t.co/LRLf6oov4c
+631102298815614976
+2015-08-11 22:58:08 +0900
+Fav: 0, Retweet: 30
+neme: DataCite
+@datacite
+RT @BioMedCentral: Bad figures are misleading, good figures contribute to reproducibility. Blog by @EmmaBSaxon: http://t.co/vjDy0gBfK8 http://t.co/CAJ43OK0Jh
+631101840755716097
+2015-08-11 22:56:18 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @digitalcuration: 2014 updated 'How to License Research Data' by Alex Ball is now available through the DCC online publication store @ http://t.co/R8YifyR6oU
+631096344917184513
+2015-08-11 22:34:28 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @ORCID_Org: Attending #wlic2015? Come hear @mjbuys speak on Information management solutions for modern research &amp; innovation http://t.co/RWpVBwpLAc
+631005998476578816
+2015-08-11 16:35:28 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @MozillaScience: Have any updates to share on #openscience? Write them in the etherpad for our next call, this Thurs. at 11ET! https://t.co/Dwz3zJXPzm
+631005908806553600
+2015-08-11 16:35:06 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @dataverseorg: Improvements for files coming soon based on user feedback! Read requirements and comment with your thoughts here: http://t.co/DZaNSO8PfU
+631005150971305984
+2015-08-11 16:32:06 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @ODIHQ: Innovating with #opendata: overcoming the challenges, reflections from @BrionyPhi11ips  http://t.co/9gvkcARsBu http://t.co/0QVuK0QAOr
+629729750848798721
+2015-08-08 04:04:07 +0900
+Fav: 0, Retweet: 12
+neme: DataCite
+@datacite
+RT @datadryad: Featured data for #fossilfriday: The stratigraphy of mass extinction http://t.co/Y1wy1VkAf3 http://t.co/ZuW1HlbI1X
+629728605669597186
+2015-08-08 03:59:34 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @digitalcuration: We have recently updated 'How to Cite Datasets and Link to Publications' guide  https://t.co/7jASqadAjZ #ukdcc #rdm
+629609855976898560
+2015-08-07 20:07:41 +0900
+Fav: 0, Retweet: 26
+neme: DataCite
+@datacite
+RT @altmetric: Not just science articles – #altmetrics for other disciplines &amp; other research outputs: http://t.co/W3xk0DGKyR #highered #libchat
+629288261148626944
+2015-08-06 22:49:47 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ElsevierConnect: 6 ways scientists can become storytellers (and why they should): http://t.co/BeOS9NdEwn #scicomms #ECRchat cc: @Falling_Walls
+629286649596350464
+2015-08-06 22:43:23 +0900
+Fav: 0, Retweet: 28
+neme: DataCite
+@datacite
+RT @arfon: A group of us decided to work out how to fix software citation - we'd love your feedback: http://t.co/Hp1eImPv7j #astroware #openscience
+628926562570764288
+2015-08-05 22:52:32 +0900
+Fav: 0, Retweet: 56
+neme: DataCite
+@datacite
+RT @ezidCDL: EZID's July Service Update, including news about @DataCite and more, Read it here: http://t.co/da2TLkm1kC #data #citation #identifiers
+628926469134225408
+2015-08-05 22:52:09 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ScientificData: . @John_Kratz &amp; @CarlyStrasser present results from survey on perceptions of data sharing, discovery, and metrics http://t.co/7fEmZ5zy1U
+628593540054937600
+2015-08-05 00:49:13 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @carlystrasser: What #metrics should we use for data? Results of new survey by @john_kratz &amp; me in @ScientificData  http://t.co/73NQ6KJ7kO
+628574520371052544
+2015-08-04 23:33:38 +0900
+Fav: 0, Retweet: 30
+neme: DataCite
+@datacite
+RT @carlystrasser: What #metrics should we use for data? Results of new survey by @john_kratz &amp; me in @ScientificData  http://t.co/73NQ6KJ7kO
+628574520371052544
+2015-08-04 23:33:38 +0900
+Fav: 0, Retweet: 30
+neme: DataCite
+@datacite
+RT @ClarindaCerejo: Future of #opendata in #journalpublishing and #scholcomm. Interview with @MarkHahnel @Figshare: http://t.co/0dQSzXEJdY #EditageInsights
+628572767865036802
+2015-08-04 23:26:40 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+#IDCC16 is going to be really interesting! "Visible data, invisible infrastructure" http://t.co/QOVEJsRBQW @digitalcuration
+628538397439737856
+2015-08-04 21:10:06 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @altmetric: Scholarly communication’s only going to get better. Here’s how. http://t.co/93kfJGvUlm #highered #phdchat #scholcomm #altmetrics
+628513759523377153
+2015-08-04 19:32:12 +0900
+Fav: 0, Retweet: 14
+neme: DataCite
+@datacite
+@ORCID_Org 1.5m iDs, @CrossrefOrg 5k publishers. Let's join the stats party! DataCite recently reached 6 million DOIs http://t.co/s6B4DWkclW
+628304019631546369
+2015-08-04 05:38:46 +0900
+Fav: 7, Retweet: 13
+neme: DataCite
+@datacite
+RT @CrossrefOrg: Crossref has over 5,000 publisher members! Welcome to the members that joined this past week, http://t.co/NWhcbU5Izg
+628293162541297664
+2015-08-04 04:55:37 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @ORCID_Org: It's official - we passed the 1.5m @ORCID_Org iD mark this weekend! Read more here: http://t.co/kXMOxtl4G4
+628290746114650112
+2015-08-04 04:46:01 +0900
+Fav: 0, Retweet: 44
+neme: DataCite
+@datacite
+RT @CODATANews: Presentations on #codata @resdatall Research #DataScience Summer Schools http://t.co/EoCe17rYab given at #ictp on 21 July 2015
+628283688044883968
+2015-08-04 04:17:58 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Have you seen our new blog? http://t.co/yD1WRYeQf8 😎
+628282317900021760
+2015-08-04 04:12:32 +0900
+Fav: 2, Retweet: 5
+neme: DataCite
+@datacite
+RT @DataCiteTech: All remaining issues with DataCite email have been resolved.
+628279754463019008
+2015-08-04 04:02:20 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @project_thor_eu: Say hello to @RachPK from @datacite at 4.15 @repofringe panel today. Trust &amp; interoperability between authors, repos &amp; journals #rfringe15
+628217912281665536
+2015-08-03 23:56:36 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @mfenner: New blog post, and my first post on new @datacite blog: http://t.co/S327Yuv27M
+628186165292740609
+2015-08-03 21:50:27 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+RT @andsdata: Webinar Wednesday: RD-Switchboard: find connections to your data. 5 Aug 12:30 AEST https://t.co/IaKJmU0LBU …
+627998476790423552
+2015-08-03 09:24:39 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @DataCiteTech: This Sunday afternoon DataCite will switch email providers. We don’t expect any interruption of services.
+627135565251616768
+2015-08-01 00:15:45 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @digitalcuration: NEW case study: Using EPrints to Build a Research Data Repository for UEL https://t.co/swXSpaIKxk #ukdcc #rdm
+627075657793728512
+2015-07-31 20:17:41 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+Program now available for DataCite/EPIC event on PIDs and Data Intensive Research! Join us the 21st Sept in Paris: http://t.co/fqjO10in08
+626786456665600001
+2015-07-31 01:08:31 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @dara_info: DOI for geoscience data - how early practices shape present perceptions http://t.co/ykpr27fa8H … #datascience @datacite #datapublication.
+626663691350593536
+2015-07-30 17:00:41 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@kadesoto @datadryad Seems like the URL got cut, here the correct link! http://t.co/5RvHb9ip0L
+626294398343610368
+2015-07-29 16:33:15 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @AWhitTwit: Dataset search: "Triticum". Results:
+OpenAIRE, N=1
+Edinburgh, N=0
+@datacite, N=688
+Data Recommender, N=holy smokes!
+Great potential here!
+626293776928088064
+2015-07-29 16:30:47 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Data Recommender Search from UIUC -- super cool -- http://t.co/G9kUaHlRlB
+626103957765558272
+2015-07-29 03:56:30 +0900
+Fav: 14, Retweet: 5
+neme: DataCite
+@datacite
+Data Recommender Search from UIUC -- super cool -- http://t.co/G9kUaHlRlB
+626103957765558272
+2015-07-29 03:56:30 +0900
+Fav: 14, Retweet: 5
+neme: DataCite
+@datacite
+Looking for data? Check out the U of I Library's Dataset Recommender Search. It searches @datadryad, @datacite http://t.co/SSFaS9VzuE …
+626101046524293120
+2015-07-29 03:44:56 +0900
+Fav: 5, Retweet: 3
+neme: DataCite
+@datacite
+Pleased to announce Laura Garcia Rueda is DataCite’s new Communications Director http://t.co/6S2CuwVNuO -- great things ahead
+626047793451249664
+2015-07-29 00:13:20 +0900
+Fav: 3, Retweet: 1
+neme: DataCite
+@datacite
+Pleased to announce Martin Fenner is DataCite’s new Technology Director http://t.co/6S2CuwVNuO -- great things coming
+626047580070240257
+2015-07-29 00:12:29 +0900
+Fav: 10, Retweet: 12
+neme: DataCite
+@datacite
+RT @hilaryhanahoe: #RDAPlenary 6 Paris 22-25 Sept 2015 @ resdatall. Are you coming? See registered participants https://t.co/y5b8YWviEh Early Bird ends soon
+624512870127153152
+2015-07-24 18:34:05 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @abaco_news: Interessant post de @IEC_ObsRecerca sobre divul. científica: “DataCite localitza, identifica i cita dades de recerca” http://t.co/HRPJwcmtju
+624512058684514304
+2015-07-24 18:30:52 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @ETHLibrary: The #ETH Data Archive is now listed on the @re3data registry: http://t.co/YMkl8mytgb #ResearchData
+624129466550362113
+2015-07-23 17:10:35 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @openscience: Scientists "need to acknowledge that software development is an integral part of research." - @pebourne http://t.co/hqI3n9zw3A #openscience
+624108043253477376
+2015-07-23 15:45:27 +0900
+Fav: 0, Retweet: 37
+neme: DataCite
+@datacite
+RT @snet_jklump: DOI for geoscience data - how early practices shape present perceptions http://t.co/AFoVKuCx3J #datascience @datacite #datapublication
+624106492661235712
+2015-07-23 15:39:17 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+Registration is open for the DataCite/EPIC event on PIDs and Data Intensive Research! Join us the 21st Sept in Paris: http://t.co/fqjO100M8A
+623418080027377664
+2015-07-21 18:03:47 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+RT @library_connect: Cruse @datacite @DataONEorg - 10 simple rules for sharing data #opendata http://t.co/K7HKlHgaDI
+620621283705946112
+2015-07-14 00:50:19 +0900
+Fav: 0, Retweet: 24
+neme: DataCite
+@datacite
+RT @ORCID_Org: In case you missed  @torstenreimer poster at #liber2015 you can find it on the @ORCID_Org blog http://t.co/0tY27kJLTs http://t.co/J68WUmtjqH
+616419693411176448
+2015-07-02 10:34:42 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+RT @atreloar: Just released: “A Place to Stand: e-Infrastructures and Data Management for Global Change Research” @BFE_Inf http://t.co/iQLEcVrCNv
+616224818254319616
+2015-07-01 21:40:20 +0900
+Fav: 0, Retweet: 17
+neme: DataCite
+@datacite
+RT @RDA_Europe: If you are an early career data scientist &amp; would like to join the next #RDAPlenary in Paris, apply for our bursary https://t.co/SeIpNfNfc1
+616224674666524672
+2015-07-01 21:39:45 +0900
+Fav: 0, Retweet: 12
+neme: DataCite
+@datacite
+RT @Impactstory: Great guide: How to Track the Impact of Research Data with Metrics, by Alex Ball and @mbonett http://t.co/jNfgzTWnBK #opendata #altmetrics
+615956321637138432
+2015-07-01 03:53:25 +0900
+Fav: 0, Retweet: 32
+neme: DataCite
+@datacite
+RT @sciencemagazine: Data used to track compliance w nuclear test ban treaty made available to researchers http://t.co/N6pFatlJFp
+615953212764336129
+2015-07-01 03:41:04 +0900
+Fav: 0, Retweet: 16
+neme: DataCite
+@datacite
+THOR project -- linking data across platforms, disciplines and institutions. DataCite is pleased to participate http://t.co/cftQ2CyA2s
+615953061140299776
+2015-07-01 03:40:28 +0900
+Fav: 2, Retweet: 5
+neme: DataCite
+@datacite
+Persistent identifiers in Paris Sept. 21!  Register now for a 1/2 day event co-hosted by DataCite and EPIC http://t.co/n8CBKR5Fm4
+615952046961786880
+2015-07-01 03:36:26 +0900
+Fav: 4, Retweet: 3
+neme: DataCite
+@datacite
+Wiley and figshare partner to implement Wiley's new data sharing policy http://t.co/zVngduVM2r
+615866823834144769
+2015-06-30 21:57:47 +0900
+Fav: 5, Retweet: 4
+neme: DataCite
+@datacite
+RT @ORCID_Org: More on our new #peerreview initiative on @scholasticahq blog today: http://t.co/BuEFu8VRcl
+614465266722828288
+2015-06-27 01:08:30 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ORCID_Org: More on our new #peerreview initiative on @scholasticahq blog today: http://t.co/BuEFu8VRcl
+614465266722828288
+2015-06-27 01:08:30 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @figshare: Committing to Data Quality Review:
+
+http://t.co/8J4Ugrtwfw
+608022088910139394
+2015-06-09 06:25:37 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @mwittin: good intro to the @ORCID_Org API (query, authenticate, create a record, add a new work) this morning at #or2015 http://t.co/pLPMkvDKN0
+608021917585440769
+2015-06-09 06:24:56 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+@mfenner Nice overview of the challenges of URLs and persistent identifiers -- http://t.co/Cftq8xAIqz
+607214113786183680
+2015-06-07 00:55:00 +0900
+Fav: 2, Retweet: 2
+neme: DataCite
+@datacite
+RT @Protohedgehog: Evidence is mounting that not making your research #openaccess gives you a citation disadvantage http://t.co/fcYq6qlALM via @LSEImpactBlog
+599011449927634944
+2015-05-15 09:40:33 +0900
+Fav: 0, Retweet: 24
+neme: DataCite
+@datacite
+Cooking with data -- @datadryad featured Data: method to analyze social transmission...the art of cooking. http://t.co/5YUa9gYPMy
+598898834807214080
+2015-05-15 02:13:03 +0900
+Fav: 2, Retweet: 0
+neme: DataCite
+@datacite
+RT @digitalcuration: Just published by #IJDC: @vellino on using machine learning to harmonise metadata from different datasets – http://t.co/FtvARg0ypy
+598893081195257856
+2015-05-15 01:50:12 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+Identifiers in Paris: DataCite event on Sept 21 focusing on citation, versions, dynamic datasets. Mark your calendars http://t.co/zM7chXvLV5
+598865526148833281
+2015-05-15 00:00:42 +0900
+Fav: 4, Retweet: 2
+neme: DataCite
+@datacite
+Exciting opportunity to work on the THOR project as the Community Engagement and Support Officer  http://t.co/fCYQZaCZJ3
+596349837919916032
+2015-05-08 01:24:15 +0900
+Fav: 2, Retweet: 4
+neme: DataCite
+@datacite
+Help shape the integration of data, articles, and researchers as the Technical Architect on the THOR project http://t.co/UA0atZy1c5
+596349623393882112
+2015-05-08 01:23:24 +0900
+Fav: 2, Retweet: 6
+neme: DataCite
+@datacite
+DataCite: happy to announce inclusion of http://t.co/2ybAdodYC5, data repository registry, into portfolio of services http://t.co/qUPZEYY9xm
+595288382147661825
+2015-05-05 03:06:24 +0900
+Fav: 11, Retweet: 14
+neme: DataCite
+@datacite
+RT @gknight2000: The DOI outage report makes interesting reading http://t.co/oZqn5Wrg6B
+578679641919000576
+2015-03-20 07:09:12 +0900
+Fav: 0, Retweet: 12
+neme: DataCite
+@datacite
+We working with @figshare for institutions to revolutionize #RDM https://t.co/wVKfjgeKXO #DOI
+578213246596837378
+2015-03-19 00:15:55 +0900
+Fav: 3, Retweet: 5
+neme: DataCite
+@datacite
+RT @bobbledavidson: Loving: put presentations in @figshare for #DOI, then @ORCID_Org picks them up via @datacite http://t.co/rqf9W3JnGw #openscience #opendata
+577698104960364544
+2015-03-17 14:08:55 +0900
+Fav: 0, Retweet: 17
+neme: DataCite
+@datacite
+New report “Open Research Data” shows value and potential of open research data to Australian economy http://t.co/nlghpCmDB8 via @andsdata
+577562770817703936
+2015-03-17 05:11:09 +0900
+Fav: 6, Retweet: 3
+neme: DataCite
+@datacite
+RT @OpenAIRE_eu: Open Peer Review in OpenAIRE - http://t.co/A85yvkxSKw via #OpenAIRE_eu blog
+577528263766990848
+2015-03-17 02:54:02 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @dataverseorg: Slides are now available for Eleni Castro's #RDAPlenary presentation on data publishing workflows w/ #Dataverse http://t.co/bUBGmoLtWC
+576030619953664000
+2015-03-12 23:42:56 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+.@TAC_NISO We have a handy "RelatedIdentifier" element in our schema for just this purpose! http://t.co/9Z1xunkGnM #RDAPlenary
+575343488306278402
+2015-03-11 02:12:31 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Good turnout in data publishing / persistent #identifiers meeting at #RDAPlenary! #DOIs4everything
+575329899163975681
+2015-03-11 01:18:31 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+Register your data! Get a DataCite #DOI from one of our members - https://t.co/D5XFWrowDk #RDAPlenary
+574967579258806273
+2015-03-10 01:18:47 +0900
+Fav: 11, Retweet: 11
+neme: DataCite
+@datacite
+Register your data! Get a DataCite #DOI from one of our members - https://t.co/D5XFWrowDk #RDAPlenary
+574967579258806273
+2015-03-10 01:18:47 +0900
+Fav: 11, Retweet: 11
+neme: DataCite
+@datacite
+.@re3data releases v1 of their API to coincide with #RDAPlenary !
+https://t.co/72F25XZkBd (cross-post from re3data)
+574959810438811648
+2015-03-10 00:47:55 +0900
+Fav: 4, Retweet: 2
+neme: DataCite
+@datacite
+Watch a live stream of #citations via #DOI being added to #Wikipedia: http://t.co/aE1Q10Rh5R from @CrossRefNews
+573505652649148416
+2015-03-06 00:29:37 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @ORNLDAAC: Data citation is catching on: dramatic increase over the past decade. #UseDAACData @DataONEorg @datadryad @datacite http://t.co/TswUnK22c2
+573503345240842241
+2015-03-06 00:20:27 +0900
+Fav: 0, Retweet: 21
+neme: DataCite
+@datacite
+Register now for the @dataverseorg Community Meeting June, 2015: https://t.co/iYOjV2i9bl
+572851550583857152
+2015-03-04 05:10:27 +0900
+Fav: 3, Retweet: 4
+neme: DataCite
+@datacite
+@recology_ Yes! Thanks!
+571009796876316673
+2015-02-27 03:11:59 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @carlystrasser: Hey tweeps- know of 3rd party integrations or wrappers for the @datacite Metadata Store (MDS)? Let me know! I'm compiling a list.
+570992301628993537
+2015-02-27 02:02:27 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @NIEHS: Watch the videocast of the Workshop on Community-Based Data and Metadata Standards 2/25 http://t.co/pGRnCoMtNB #BD2K @NIH_BD2K
+570592437044817920
+2015-02-25 23:33:32 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @carlystrasser: What do researchers think of #DataPublication? Read results of @john_kratz survey in our new @PLOSONE pub: http://t.co/0lJEeicBKW
+570285951437529088
+2015-02-25 03:15:40 +0900
+Fav: 0, Retweet: 38
+neme: DataCite
+@datacite
+RT @Protohedgehog: Sweden has just announced new #openaccess guidelines https://t.co/9UWiHvM4rK
+567987130414305280
+2015-02-18 19:00:59 +0900
+Fav: 0, Retweet: 13
+neme: DataCite
+@datacite
+RT @OpenAIRE_eu: #openaire_eu has a blog! https://t.co/zv6QgDpAKo #openscience stories
+567617674352816128
+2015-02-17 18:32:54 +0900
+Fav: 0, Retweet: 18
+neme: DataCite
+@datacite
+@myrmoteras can't find anything that doesn't resolve from http://t.co/QJPXSjn7gu. but let me know if there's something you need
+567292453972365312
+2015-02-16 21:00:35 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@myrmoteras which URL? main datacite page or something else?
+567290837642797057
+2015-02-16 20:54:10 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @andsdata: Get an early look at the upcoming http://t.co/PPoo75QdFU software release - Participate in usability testing. services@ands.org.au
+567230597119373312
+2015-02-16 16:54:47 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+MT @MsPhelps "The metadata roundtrip -great poster from @ORCID_Org at #Force2015 @crossRef @DataCite #identifiers …" http://t.co/O7V5yAhUQi
+565235882199117825
+2015-02-11 04:48:30 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@digitalsci @MarkHahnel Oh boo. That's disappointing.
+565142537531174914
+2015-02-10 22:37:35 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@MarkHahnel @digitalsci  Where is that screenshot from?
+565122499772698626
+2015-02-10 21:17:58 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+MT @digitalsci: @NASA has an #OpenData repo http://t.co/LBOUCGfP9O for experiment results from Int'l Space Station! http://t.co/7eJj888AeN
+565113584393658368
+2015-02-10 20:42:32 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+RT @ScienceBL: New blog post: One researcher's experience of using @DataCite to assign DOIs to rainforest data http://t.co/4AcQu4fPng #researchdata
+564720897131413504
+2015-02-09 18:42:08 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+@ORCID_Org who at ORCID can I email with about uservoice? Just a couple of questions... - Carly
+563717920342437888
+2015-02-07 00:16:40 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@ORCID_Org who at ORCID can I email with about uservoice? Just a couple of questions... - Carly
+563717920342437888
+2015-02-07 00:16:40 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @HarvardLibrary: Roundtable on the changing nature of library spaces TODAY at 3:30 http://t.co/lbcZaHKHoc
+563706561470955520
+2015-02-06 23:31:32 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+@ORCID_Org thanks!
+563682536141094912
+2015-02-06 21:56:03 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@ORCID_Org what help desk ticket system do you guys use? We need to implement one!
+563680552617017344
+2015-02-06 21:48:11 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @fosterscience: Applying for #Horizon2020 CLEAN SKY Call? Why not use #openscience to optimise IMPACT (Section 2.2). Here's how http://t.co/IQA4Fudo4O
+563248653373308928
+2015-02-05 17:11:58 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+RT @digitalsci: #Ebola: Call for more sharing of scientific data http://t.co/LSpXxcvBJS via @BBCNews #OpenData #DataSharing
+562601927796875266
+2015-02-03 22:22:06 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+Our 2014 conference in Nancy: recordings &amp; slides now available at https://t.co/vmSMmh0lar
+562586375669940226
+2015-02-03 21:20:18 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+RT @MMMarksman: Dutch Techcentre for Life Sciences: Enabling data-intensive research in the Netherlands. @bigcat_UM, @DTL_nl, #data: http://t.co/Ca4p1ad38B
+562532744396537856
+2015-02-03 17:47:12 +0900
+Fav: 0, Retweet: 9
+neme: DataCite
+@datacite
+RT @carlystrasser: Just got a tour of @tudelftlibrary &amp; learned about their #researchdata services- great model for other academic libraries
+562226978653474816
+2015-02-02 21:32:12 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @PLOSGenetics: Love reproducible science? New Research Resource Identification Initiative pilot @PLOSBiology &amp; @PLOSGenetics  http://t.co/s5rGLr2Xls #rrid
+560820009677500416
+2015-01-30 00:21:24 +0900
+Fav: 0, Retweet: 21
+neme: DataCite
+@datacite
+RT @digitalsci: "It’s time we embrace non-traditional publishing platforms." http://t.co/SWbIpDw1ze via @TheScientistLLC
+560459236027535360
+2015-01-29 00:27:49 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+Hey DataCite members - attending @resdatall 5th Plenary in March? Let us know! http://t.co/6SwJeNmiQy
+560440220898693120
+2015-01-28 23:12:15 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Oops- recs are from @recode_project  MT @datacite: New policy recommendations on #OA research data http://t.co/2gq8bZPrW0 #opendata
+560206690746769409
+2015-01-28 07:44:17 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+New policy recommendations from @digitalcuration on #OA research data http://t.co/2gq8bZPrW0 #opendata
+560186653206016000
+2015-01-28 06:24:40 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+RT @Tlibriley: My new favorite website @datacite metadata search beta http://t.co/ApqJUT885y
+560176320038965249
+2015-01-28 05:43:36 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @digitalcuration: Today is the last day to register for #idcc15 conference in London. Register now, only couple spots left! http://t.co/sQzN2lLHQR
+560102632002293762
+2015-01-28 00:50:48 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @ARMSoa: Hey there Queenslanders: some great @andsdata research data events happening in your neck of the woods 29&amp;30 Jan http://t.co/pf96bb7jKh
+559872464872681472
+2015-01-27 09:36:12 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Wondering why DataCite exists? Check out this D-Lib article on 10 years of DOIs for data: https://t.co/tvKwlp4eiK
+559817830606987264
+2015-01-27 05:59:06 +0900
+Fav: 6, Retweet: 9
+neme: DataCite
+@datacite
+@hmbara @ETHLibrary
+ done!
+559746845392379904
+2015-01-27 01:17:02 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+@ScienceBL @BritishLibrary ok thanks!
+559721039488241665
+2015-01-26 23:34:29 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@ScienceBL @BritishLibrary ok thanks!
+559721039488241665
+2015-01-26 23:34:29 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @dara_info: The presentations of @datacite @LeibnizWGL workshop are online http://t.co/M1gZvDjlqb #dclw15
+559697743728242690
+2015-01-26 22:01:55 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @resdatall: Early bird deadline for registration for RDA's 5th Plenary in San Diego is Monday.  Register soon!  #RDAPlenary  http://t.co/TJ9xsYZVlO
+558730910368280576
+2015-01-24 06:00:04 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@dara_info Done!
+558700428691767297
+2015-01-24 03:58:57 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+@UniSotonLibrary you are now!
+558700402125066240
+2015-01-24 03:58:50 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@DataByatt got it - thanks!
+558700370202210305
+2015-01-24 03:58:43 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+We are creating a list of DataCite members' Twitter accounts: https://t.co/W0OJXaww6k did we miss anyone?
+558594554619002880
+2015-01-23 20:58:14 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+We have a freshly updated Company page on @LinkedIn! https://t.co/quFNfAkGk7
+558571894606409728
+2015-01-23 19:28:12 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+RT @infodocket: Research Data: A @DataCite Case Study From the British #Library (Video) http://t.co/sB4kdaANZx #doi #libraries
+558292054451978240
+2015-01-23 00:56:13 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Did you hear? DataCite hired @carlystrasser as Manager of Strategic Partnerships https://t.co/mV0EWQBqQZ
+557939517853011968
+2015-01-22 01:35:21 +0900
+Fav: 3, Retweet: 8
+neme: DataCite
+@datacite
+DataCite's present for our 5th birthday: Our brand new website! Check it out at http://t.co/vX9FkjRvOM
+539875250784452608
+2014-12-03 05:14:24 +0900
+Fav: 4, Retweet: 6
+neme: DataCite
+@datacite
+Happy birthday to us! 5 years ago to the day DataCite was founded.
+Look out for our birtdhday gift to be online within the next days :-)
+539455896259399680
+2014-12-02 01:28:02 +0900
+Fav: 4, Retweet: 6
+neme: DataCite
+@datacite
+CERN launches Open Data Portal with DataCite DOI names http://t.co/OAf0MDOhRP
+535698154445086720
+2014-11-21 16:36:07 +0900
+Fav: 13, Retweet: 19
+neme: DataCite
+@datacite
+@datacite #Metadata Working Group would like your input: Should ResourceType be mandatory in @datacite schema? http://t.co/65A1lERt1q
+534762339745423360
+2014-11-19 02:37:31 +0900
+Fav: 4, Retweet: 8
+neme: DataCite
+@datacite
+DataCite and CrossRef will cooperate to better support interlinking between articles and data: http://t.co/qFLqdTikE8
+532449536221134848
+2014-11-12 17:27:16 +0900
+Fav: 6, Retweet: 14
+neme: DataCite
+@datacite
+New DataCite metadata schema update released. Based mostly on community suggestions: http://t.co/XjyG2pts0Z
+523079763758288897
+2014-10-17 20:55:08 +0900
+Fav: 3, Retweet: 6
+neme: DataCite
+@datacite
+Datacite and Open Data Institute (ODI) join forces to boost data reuse: http://t.co/G8MShx7KxR
+522073648883331072
+2014-10-15 02:17:12 +0900
+Fav: 10, Retweet: 11
+neme: DataCite
+@datacite
+@DataCite and the ICSU World Data System (@ICSU_WDS ) announce closer cooperation: http://t.co/4Zbuy6houF
+520466729781448704
+2014-10-10 15:51:52 +0900
+Fav: 4, Retweet: 7
+neme: DataCite
+@datacite
+RT @TAC_NISO: Defining what exactly a data set is via @datacite http://t.co/wXQXlX35ls =&gt; Covers just about everything in the world
+515458749830815744
+2014-09-26 20:11:57 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+Data Citation and Sharing: What’s in it for me? Great blog post again from Sarah Callaghan  http://t.co/IITRYh2qDa
+512870574511890433
+2014-09-19 16:47:28 +0900
+Fav: 6, Retweet: 4
+neme: DataCite
+@datacite
+Data Citation and Sharing: What’s in it for me? Great blog post again from Sarah Callaghan  http://t.co/IITRYh2qDa
+512870574511890433
+2014-09-19 16:47:28 +0900
+Fav: 6, Retweet: 4
+neme: DataCite
+@datacite
+Already registered? Only 7 days until the ODIN project Final Event in Amsterdam: http://t.co/W6t5FXVYrp Directly after the RDA plenary
+511951421047336960
+2014-09-17 03:55:05 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+Videos and slides from the ODIN webinar from sept 9th are now online: http://t.co/2IxaZWazzt
+511949583162015748
+2014-09-17 03:47:46 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+@tnhh Yes, DataCite members target at the institution level. For small numbers of doi names, try @figshare or @ResearchGate
+509683893415735296
+2014-09-10 21:44:44 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@tnhh The British library is also a DataCite member and should be able to help you: http://t.co/GVptMQR1Ik
+509682263345610752
+2014-09-10 21:38:15 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+The slides of the #datacite conference are now available from the website http://t.co/0WKkNAJJIs Videos will follow within weeks.
+509663019744632832
+2014-09-10 20:21:47 +0900
+Fav: 5, Retweet: 13
+neme: DataCite
+@datacite
+New free ODIN webinar "Looking into the future " on author and data identifier, Sept 9th http://t.co/5DpMpQIQgC
+507911015762501632
+2014-09-06 00:19:57 +0900
+Fav: 1, Retweet: 4
+neme: DataCite
+@datacite
+#datacite Thanks to everyone who was in Nancy. It was a great meeting.
+505063813751013376
+2014-08-29 03:46:11 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @carlystrasser: My take on this week's @datacite meeting: new blog post from Data Pub http://t.co/nf7GeIKpbm #datacite
+505063726748565504
+2014-08-29 03:45:50 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+Cooperation with Thomson Reuters. DataCite metadata for the data citation index: http://t.co/9zYBQfzYFX
+505019939489869824
+2014-08-29 00:51:51 +0900
+Fav: 6, Retweet: 13
+neme: DataCite
+@datacite
+RT @openscience: The end of papers &amp; the rise of data http://t.co/0Rm7xvabbK by @cjlortie, with thanks to @datacite. #opendata to #openscience
+504956797854437376
+2014-08-28 20:40:56 +0900
+Fav: 0, Retweet: 20
+neme: DataCite
+@datacite
+#datacite "publishing research without data is advertising, not science"
+503855420688330753
+2014-08-25 19:44:28 +0900
+Fav: 17, Retweet: 25
+neme: DataCite
+@datacite
+@aebudden Yes, we will make the slides available after the conference.
+503838207679922176
+2014-08-25 18:36:04 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+#datacite Lautenschlager keynote gave on overview of 10 years history. We have come a long way :-)
+503830906772414464
+2014-08-25 18:07:03 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+@rdmpage It has just started recently: http://t.co/zXgoKY52wu
+501798475903041536
+2014-08-20 03:30:54 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+RT @re3data: "Where do you store your research data?" Check out our new @re3data postcards. Pick them up at the @datacite Meeting. http://t.co/WCdoyoX5j1
+501718812723781632
+2014-08-19 22:14:21 +0900
+Fav: 0, Retweet: 21
+neme: DataCite
+@datacite
+Cooperation between @DataCite and @ResearchGate : combine DataCite DOIs with social network functionalities: http://t.co/zXgoKY52wu
+499481905260400640
+2014-08-13 18:05:40 +0900
+Fav: 2, Retweet: 7
+neme: DataCite
+@datacite
+DataCite Annual Conference - Programme update and deadline extension: http://t.co/GluJ1KlDAC See you in 2 weeks!
+498741809523482624
+2014-08-11 17:04:48 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+Check out "ORCID and DataCite: Towards Holistic Open Research" http://t.co/zib4DSEXQD via @eventbrite
+489428637431500800
+2014-07-17 00:17:34 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+@orcid_org and @DataCite sign MoU: Joining data with the researchers who created it! http://t.co/bEyyGteef9 :
+489427751217410048
+2014-07-17 00:14:03 +0900
+Fav: 12, Retweet: 26
+neme: DataCite
+@datacite
+@orcid_org and @DataCite sign MoU: Joining data with the researchers who created it! http://t.co/bEyyGteef9 :
+489427751217410048
+2014-07-17 00:14:03 +0900
+Fav: 12, Retweet: 26
+neme: DataCite
+@datacite
+RT @jbiserkov: Beyond publications: ReFindit http://t.co/fc4KQ74gtH helps you find more research output types: @datacite @ZENODO_ORG @figshare @GigaScience
+484032810202988544
+2014-07-02 02:56:29 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+What was that date? Updates from the DataCite metadata working group: http://t.co/CzktdJ0UKW
+481459443356676097
+2014-06-25 00:30:51 +0900
+Fav: 3, Retweet: 4
+neme: DataCite
+@datacite
+RT @CrossRefNews: MT @jbiserkov @ORCID_Org integrates @CrossRefNews @datacite @ZENODO_ORG @figshare-my works added autoMAGICALLY! http://t.co/10ckr6Gvxx
+479667291794464768
+2014-06-20 01:49:28 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Registration is now open for the DataCite conference in August in Nancy, France. See you there! http://t.co/r38mjBf6Ox
+479233491075596288
+2014-06-18 21:05:42 +0900
+Fav: 1, Retweet: 7
+neme: DataCite
+@datacite
+The video and slides from the ODIN project webinar are now available http://t.co/G3rFucCv74
+474528550666903553
+2014-06-05 21:29:57 +0900
+Fav: 2, Retweet: 4
+neme: DataCite
+@datacite
+Invitation to ODIN webinar: Learn about the latest tools for ORCIDs and DataCite DOIs! http://t.co/ks84WRMWGN
+471692963656245248
+2014-05-29 01:42:20 +0900
+Fav: 2, Retweet: 4
+neme: DataCite
+@datacite
+Scientific Data journal http://t.co/miT4rzgjaX  launches today: publish data and data descriptors - Big step for data publication
+471321409978105856
+2014-05-28 01:05:55 +0900
+Fav: 3, Retweet: 6
+neme: DataCite
+@datacite
+@chrisftaylor If the author knows about a data-paper link, it is in the metadata  http://t.co/zG3l48hn8q\%3A* Often they do not know
+468691940960391168
+2014-05-20 18:57:21 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+The polar bear and data publication. Intersting blogpost by GigaScience: http://t.co/JXrq0K754W
+467222500162928641
+2014-05-16 17:38:19 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+Job opportunity - DataCite is looking for a Technical officer: Be part of the team! http://t.co/LQSUwUrkvf
+467024183537729537
+2014-05-16 04:30:16 +0900
+Fav: 2, Retweet: 5
+neme: DataCite
+@datacite
+Hi @n_simons. There is a plugin for github to assign DataCite DOIs through fighsare for example. More examples: http://t.co/1Ld4Hgdq7D
+465784025303752704
+2014-05-12 18:22:20 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+Hi @chrisftaylor , we have internal tools only to check if the metadata record fullfills our minimum requirements otherwise they get no DOI.
+464765530499710976
+2014-05-09 22:55:12 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @metamattj: Nice summary of #datacitation practices on the Data Pub blog. Fascinating that we can't seem to get widespread uptake http://t.co/w6sQKMGhpK
+464552407683588096
+2014-05-09 08:48:19 +0900
+Fav: 0, Retweet: 11
+neme: DataCite
+@datacite
+RT @ScienceBL: For #WorldMalariaDay, why not check out the &lt;1000 research items relating to #malaria in DataCite: http://t.co/MU925RAMUB
+460669180921253888
+2014-04-28 15:37:46 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+@mpfl @n_simons True. Stats do not go down to exact DOI level. Only top 5 lists on data center level. We are working to on that.
+454538515968438272
+2014-04-11 17:36:41 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+10th anniversary of minting DOI names for data: http://t.co/plRXyL9vfM A bit of modern science archeology
+454537946981740544
+2014-04-11 17:34:26 +0900
+Fav: 2, Retweet: 8
+neme: DataCite
+@datacite
+@n_simons @mpfl it is under http://t.co/MAj8JyblgC There is a layer:resolution, updated roughly every month.
+453861060295274496
+2014-04-09 20:44:43 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @nceas: Great blog by Ted Hart on data citation with a lively discussion about how to cite derived data http://t.co/r17Z92CvEO @metamattj @cboetitg
+451324985291051008
+2014-04-02 20:47:16 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @atreloar: 3 Oceanography data sets cited more highly than 99% of articles published over same period. http://t.co/Z2OPUEiuZc #datacitation
+451324953372401664
+2014-04-02 20:47:08 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+RT @atreloar: 3 Oceanography data sets cited more highly than 99% of articles published over same period. http://t.co/Z2OPUEiuZc #datacitation
+451324953372401664
+2014-04-02 20:47:08 +0900
+Fav: 0, Retweet: 10
+neme: DataCite
+@datacite
+@DataCite endorses the Joint Declaration of Data Citation Principles from Data Citation Synthesis Group. @force11 http://t.co/JxU867W6Fu
+450910604153597952
+2014-04-01 17:20:40 +0900
+Fav: 1, Retweet: 4
+neme: DataCite
+@datacite
+RT @ccdc_cambridge: CSD dataset assigned the 3 millionth DOI ever registered by DataCite! CSD refcode NINMAZ, DOI 10.5517/CCPHZ37. http://t.co/yfLUzPUQJA
+450908730595745793
+2014-04-01 17:13:13 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+DataCite welcomes 4 new full member:
+University of Tartu, SAEON from Africa, Japan Link Center and CERN
+http://t.co/IXus7o7dS9
+450558496195756032
+2014-03-31 18:01:31 +0900
+Fav: 4, Retweet: 6
+neme: DataCite
+@datacite
+#RDAplenary @DataCite will become an organisational affiliate of #RDA. MoU signed yesterday. http://t.co/DekNuIKvu6 http://t.co/VYZUqeSXSG
+449109009417523200
+2014-03-27 18:01:46 +0900
+Fav: 2, Retweet: 12
+neme: DataCite
+@datacite
+@Re3data, @databib and @datacite agree on cooperation: http://t.co/5o1wNgfzVd
+448832800826097665
+2014-03-26 23:44:13 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+Interested in helping us with a new website? Here is a tender: http://t.co/ZrhTCXVxtD
+444481311106150400
+2014-03-14 23:32:57 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+New article on DataCite website: ICPSR's DOI names migrated from CrossRef to DataCite: http://t.co/BQMXtif2pt
+432799175986532352
+2014-02-10 17:52:19 +0900
+Fav: 5, Retweet: 12
+neme: DataCite
+@datacite
+RT @ezidCDL: New @datacite blog post on how to use #metadata to get your #DOI discovered &amp; cited http://t.co/TYsGLcS4OX
+430970876444823552
+2014-02-05 16:47:18 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @ScienceBL: Great blog post from @sorcha_ni on citing datasets and data papers. Cite what you use: http://t.co/2dp1SmEiwX #datacite
+428109822517841920
+2014-01-28 19:18:30 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+New D-lib issue on the RDA includes brief summary of DataCite 2013 summer meeting: http://t.co/e5tfBgDDWK
+428109367385133056
+2014-01-28 19:16:41 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+New DataCite metadata generator tool published integrating ORCIDs @ORCID_Org . Thanks to #ODINproject codesprint http://t.co/23efUToxee
+397381106967666688
+2013-11-05 00:13:33 +0900
+Fav: 9, Retweet: 15
+neme: DataCite
+@datacite
+TU Berlin is looking for beta testers for their  D-Space addition to support DOI names http://t.co/NLyG3KFFfi #dspace #datacite
+389744736262557698
+2013-10-14 22:29:20 +0900
+Fav: 5, Retweet: 10
+neme: DataCite
+@datacite
+#DataCite Summer meeting slides are now available online http://t.co/0bRaBkPlQc
+389734490018299905
+2013-10-14 21:48:37 +0900
+Fav: 4, Retweet: 2
+neme: DataCite
+@datacite
+#datacite summer meeting is over. Thanks to all attendees and for the lively coverage on twitter
+381089248171937792
+2013-09-21 01:15:31 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @resdatall: Alter talks about the need to see data *as* infrastructure and to have it funded accordingly. Absolutely! #datacite
+381084286394183680
+2013-09-21 00:55:48 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @figshare: "Why don't we make #data #sharing plans public to make sure researchers adhere?" - Good idea at #datacite
+381082669821353985
+2013-09-21 00:49:23 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @resdatall: Data sharing may be the only thing us congress agrees on! #datacite
+381078421092052992
+2013-09-21 00:32:30 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: N Robinson says #DataCite clients who supply Recommended metadata will get indexed by TR &amp; be in WOK. #datacitation  #metadata
+381046143464902656
+2013-09-20 22:24:14 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#datacite meeting: 2nd day starts with N. Robinson introducing the data citation index
+381042259895914497
+2013-09-20 22:08:48 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite meeting: 2nd day starts with N. Robinson introducing the data citation index
+381042259895914497
+2013-09-20 22:08:48 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+@ljndawson A citation is more than just a link. It pays attribute to authors and should be permanent.
+380812230679199744
+2013-09-20 06:54:45 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+@ljndawson Different use cases for Handles and DOI are not the kind of object but the citability of the object. And often the pure masses
+380809348177346560
+2013-09-20 06:43:18 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@ljndawson Handles still have their use cases - early versions, pre-publishing... #datacite
+380807114613989378
+2013-09-20 06:34:25 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@simonhodson99 DOI is a quality mark if the data centre defines it so. But it is not per se a quality mark.
+380805974270808064
+2013-09-20 06:29:53 +0900
+Fav: 3, Retweet: 2
+neme: DataCite
+@datacite
+#datacite find DataCite's Business Principles under http://t.co/pWWVHDM7BH
+380803168453419008
+2013-09-20 06:18:45 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite submit your comments to the DataCite metadata schema in our Google Group: http://t.co/VIhImLlAfG
+380802802382934016
+2013-09-20 06:17:17 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+@kevingashley 'article is often supplement to data' - Interesting and often true observation! #datacite
+380800694371889153
+2013-09-20 06:08:55 +0900
+Fav: 2, Retweet: 2
+neme: DataCite
+@datacite
+#datacite Jan Brase 'Anything that helps further research is research data'
+380797485091782656
+2013-09-20 05:56:09 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+#datacite Data is more than classical datasets: images, texts, videos, studies, papers...
+380797308385763328
+2013-09-20 05:55:27 +0900
+Fav: 2, Retweet: 5
+neme: DataCite
+@datacite
+@resdatall, @force11, #datacite, #codata: Working together to allign data citation principles.
+380796350150893568
+2013-09-20 05:51:39 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Codata: first principles for data citation in Out of Cite, Out of Mind. Another great initiative to help making data citation easy #datacite
+380795939067142144
+2013-09-20 05:50:01 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+8 principles of data citation - great work of @force11
+380794092063453184
+2013-09-20 05:42:41 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@azaroth42 @fraukezie With Conten Negotiation you can access every file that was associated with the DOI. But it has to be defined before.
+380792520852004864
+2013-09-20 05:36:26 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@azaroth42 @fraukezie  see http://t.co/mmUGJnbzPf for current used mimetypes
+380778388954161153
+2013-09-20 04:40:17 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite interesting video from Purdue on their PURR service. Pretty good service
+380776416041631745
+2013-09-20 04:32:26 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+@azaroth42 That is the plan. Currently we do content negotiation to the metadata.
+380775410121707520
+2013-09-20 04:28:26 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @atreloar: Oak Ridge National Labs DOI workflow #datacite http://t.co/IR8N4vqePi
+380773298704879616
+2013-09-20 04:20:03 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+@azaroth42 The DOI identifies the dataset. The splach page is the manifestation or gateway to it
+380773240295022592
+2013-09-20 04:19:49 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @DataAtCU: Sifting through the haystack of supercomputing data to find the needles of knowledge with metaphorical doi magnets #datacite
+380772604459511809
+2013-09-20 04:17:17 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @DataAtCU: Sifting through the haystack of supercomputing data to find the needles of knowledge with metaphorical doi magnets #datacite
+380772604459511809
+2013-09-20 04:17:17 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @atreloar: @joan_starr Becoming clear that DOI is becoming standard for citation, and DataCite becoming standard for data citation #datacite
+380769055319134209
+2013-09-20 04:03:11 +0900
+Fav: 0, Retweet: 8
+neme: DataCite
+@datacite
+#datacite Joan Starr: DataCite now is the standard for data citation. We are almost there I would say
+380768950763528192
+2013-09-20 04:02:46 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#datacite Meeting: Next session: Examples of the work of our US-members
+380761944937877504
+2013-09-20 03:34:56 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite great keynote from Salvatore Mele. Thank you very much!
+380761615102009346
+2013-09-20 03:33:37 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+RT @simonhodson99: INSPIRE http://t.co/kOhR6I2ctH shows exciting potential of linking articles, data collections, #datacite DOIs, ORCIDS #codata #rdaplenary
+380760746432274432
+2013-09-20 03:30:11 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @figshare: The Higgs Boson data is definitely the jewel in the #DataCite crown. Hopefully the first of many!
+380757397020504064
+2013-09-20 03:16:52 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+#datacite Mele showing that the LHC data proving the Hoggs bosson has a datacite-DOI!
+380757168305098752
+2013-09-20 03:15:57 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @dri_ireland: Viz. of Higgs Boson paper by proportion: #datacite http://t.co/5OPYCt2YqH
+380754187279020033
+2013-09-20 03:04:06 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+#datacite Mele on data sharing in 2004: 72 pages of tables in print
+380754064071344128
+2013-09-20 03:03:37 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@GigaScience or try mms://video.nationalacademies.org/wmtencoder/live.wmv for media player
+380753600642686976
+2013-09-20 03:01:47 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @GigaScience: Can't do Mele's fantastic keynote justice with tweets. See stream at http://t.co/9CtwIh3xbk #datacite
+380752754873884672
+2013-09-20 02:58:25 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @kevingashley: #datacite Salvatore Mele is off to a great start with his keynote. If you aren't watching now, do your best to catch the recording
+380749619518373888
+2013-09-20 02:45:57 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#datacite summer meeting. Salvatore Mele from CERN next: What has the Higgs bossom to do with DataCite?
+380748298862075904
+2013-09-20 02:40:43 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#datacite summer meeting will be streamed at:
+mms://video.nationalacademies.org/wmtencoder/live.wmv 
+or
+http://t.co/Yp6gQiEOA1
+380746087901827072
+2013-09-20 02:31:55 +0900
+Fav: 2, Retweet: 11
+neme: DataCite
+@datacite
+RT @dri_ireland: DataCite. We're working with them for DOIs in our repository.  #RDAplenary http://t.co/3LZE0PiLt9
+379705657089224704
+2013-09-17 05:37:37 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Interesting: Nature's list of Recommended data repositories: (In cooperation with re3data) http://t.co/xT6aPhotp3
+373419565104918528
+2013-08-30 21:18:56 +0900
+Fav: 7, Retweet: 4
+neme: DataCite
+@datacite
+The DataCite Metadata Working Group wants to hear from you! http://t.co/HdXQCZ021o
+372672527014699008
+2013-08-28 19:50:29 +0900
+Fav: 4, Retweet: 12
+neme: DataCite
+@datacite
+RT @anjacks0n: Checksums and @datacite RT@EPCCed: Verifying database citations and the value of checksums. New EPCC blog post http://t.co/huIyn3SwgI #data
+372302343485652992
+2013-08-27 19:19:30 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+Citing data (without tearing your hair out) - Scientific American blog post by Bonnie Swoger  http://t.co/fIHzOMvCTx
+371212952679886848
+2013-08-24 19:10:39 +0900
+Fav: 7, Retweet: 4
+neme: DataCite
+@datacite
+Citing data (without tearing your hair out) - Scientific American blog post by Bonnie Swoger  http://t.co/fIHzOMvCTx
+371212952679886848
+2013-08-24 19:10:39 +0900
+Fav: 7, Retweet: 4
+neme: DataCite
+@datacite
+RT @ezidCDL: &amp; stay for @DataCite mtg! MT @andsdata Join global convo on #datamanagement @resdatall Plenary in WashDC, 16-18 Sept http://t.co/0h0WDG6LV2
+370601708600061952
+2013-08-23 02:41:47 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @verneynews: Reconnect 13 has five optional workshops. #2: DataCite Canada: Make your research data discoverable through DataCite Canada #Reconnect13
+369830960558141441
+2013-08-20 23:39:06 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Today PANGAEA minted the 2,000,000th DataCite DOI : http://t.co/pRqhIXZyv0 #Milestone
+367233357106520064
+2013-08-13 19:37:09 +0900
+Fav: 2, Retweet: 6
+neme: DataCite
+@datacite
+Programme for the DataCite summer meeting is finalised.  Registration is still open. See you in Washington DC http://t.co/VBPeNT0ymZ
+366894055067627521
+2013-08-12 21:08:53 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @NDSA2: Learn more about finding, accessing and re-using research data at the #DataCite Mtg, Sept 19-20, Washington, DC: http://t.co/qjWbgUYXO1 #lod
+363300923109408768
+2013-08-02 23:11:04 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @dara_info: Dr. Salvatore Mele from @CERN will be keynote speaker at @datacite Summer Meeting 2013. More about the Summer Meeting http://t.co/brZ1QqbgAi
+362206431635701762
+2013-07-30 22:41:57 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @BMC_series: Show me the data - @ScienceBL on the importance of #opendata, and how @DataCite can help http://t.co/gugL56kKwn
+361805943064895488
+2013-07-29 20:10:33 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @kmorgenroth: Announcing DataCite Metadata Version 3.0 | DataCite http://t.co/UGC2aLB3WY
+360474125497671680
+2013-07-26 03:58:23 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @ScienceGist: Good news, everyone! You can now use @DataCite DOIs on ScienceGist too! Example: http://t.co/OZrNuzh7DV
+359706630826364928
+2013-07-24 01:08:38 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+@ScienceGist Since there is no Slovenian member, you could contact any of the existing ones: http://t.co/1pkWFdnFgq or use Figshare.
+358248438569242625
+2013-07-20 00:34:18 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @NPDIreland: MT With DataCite, the DRI will become the first Irish repository to assign DOIs to its digital objects: http://t.co/kn9pnxzTUK @dri_ireland
+358153046640955392
+2013-07-19 18:15:15 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: Just learned abt the #doajcriteria Glad DOAJ is asking for DOIs and suggest DOAJ accept DOIs from @datacite as well as @CrossRefNews
+358153001870954498
+2013-07-19 18:15:04 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @thiaru: New #DataCite blog post: "EC public consultation on open research data" http://t.co/h8MJrDVWYh
+358152959596568577
+2013-07-19 18:14:54 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+@juretriglav @BenNMiles @ScienceGist DataCite membership costs. Members provide Doi to datacenter on individual cost. Eg Free in germany
+358152886544379904
+2013-07-19 18:14:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Free registration now open for the DataCite summer meeting September in Washington DC http://t.co/UR1BPj8XCg See you there!
+358152312239296512
+2013-07-19 18:12:20 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @simonhodson99: Exercises from #jiscmrd #bldatacite workshop 'Working with #DataCite: a technical introduction' https://t.co/gwjtfP11Rv #ukdcc
+349525321504137219
+2013-06-25 22:51:45 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+5 days left. Please respond to the @datacite poll on data quality: http://t.co/z3C1j1IyTA.
+347279840640118784
+2013-06-19 18:09:00 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+News from ODIN project: DataCite invites developers to a codefest in October http://t.co/8etuLfKQti
+347279696838422530
+2013-06-19 18:08:26 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+What is data quality? Please take 5 minutes to respond to a @datacite poll: http://t.co/z3C1j1IyTA
+344371749116329984
+2013-06-11 17:33:17 +0900
+Fav: 1, Retweet: 7
+neme: DataCite
+@datacite
+What is data quality? Please take 5 minutes to respond to a @datacite poll: http://t.co/z3C1j1IyTA
+344371749116329984
+2013-06-11 17:33:17 +0900
+Fav: 1, Retweet: 7
+neme: DataCite
+@datacite
+DataCite happily welcomes 2 new affiliated members: Harvard University library and IEEE http://t.co/ubdYwrSk6N
+343321507335897089
+2013-06-08 20:00:00 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+DataCite Metadata Version 3.0 Available for Comment and Testing: http://t.co/wkfERajjyb
+341921047605559296
+2013-06-04 23:15:04 +0900
+Fav: 2, Retweet: 10
+neme: DataCite
+@datacite
+Hold the date: In the 3rd week of Sept. DC will be the heart of the Data Citation world: 3 major events at the NAS: http://t.co/rwGo1LwxJE
+341520100123344901
+2013-06-03 20:41:51 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@cobismith The other option would of course be FigShare
+338944695411539968
+2013-05-27 18:08:07 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+@cobismith As the conference seems to be in Bonn. Your (German) partners should contact: http://t.co/l1AKAscnwD Free for German institutions
+338944537491812352
+2013-05-27 18:07:29 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @ORCID_Org: Thorisson demo of ODIN DataCite-ORCID integration at #ORCID10 available at http://t.co/ZB6bQyhU67
+337845622122090496
+2013-05-24 17:20:47 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @normangray: JISC-British Library DataCite Workshop -
+"Research data metrics for impact and citation" http://t.co/GWS32QO48f
+337152889124425728
+2013-05-22 19:28:07 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New post on DataCite blog: 
+Third party applications for the creation of DataCite-metadata xml-files: http://t.co/VjXRtwY0TY
+337152540003143680
+2013-05-22 19:26:44 +0900
+Fav: 1, Retweet: 5
+neme: DataCite
+@datacite
+New article on DataCite website: 
+Research Data Netherlands collaboration launched http://t.co/0hFvhbnH6s
+334319025821741058
+2013-05-14 23:47:21 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Link your DataCite datasets with ORCIDs: http://t.co/ITKPzR3akF. Read about it at: http://t.co/SqFpWfHAoL
+333887381415538689
+2013-05-13 19:12:09 +0900
+Fav: 8, Retweet: 16
+neme: DataCite
+@datacite
+@juancommander contact@datacite.org should work.
+326389047696162817
+2013-04-23 02:36:27 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@juancommander We had a problem with our mail-server last week and recieved none. Please try again.
+326380868241354755
+2013-04-23 02:03:57 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@DataAtCU @simonhodson99 The top10 for March are out as well :-) http://t.co/MfM0EUvi5p
+324068848103981056
+2013-04-16 16:56:48 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @archivetraining: "The American people deserve access to the research they have paid for" - Rep. Jim Sensenbrenner http://t.co/Y9x5RQlaeA
+324068248977027072
+2013-04-16 16:54:26 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+DataCite resolutions statistics for March published. Which were the most popular datasets:http://t.co/MfM0EUvi5p?
+322640549645545473
+2013-04-12 18:21:16 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+@TAC_NISO Can we harmonize Draft Amsterdam Manifesto on Data Citation Principles with this: http://t.co/JMjplh3J50 ?
+316499376040198144
+2013-03-26 19:38:26 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New on DataCite website: 
+Videos: Inside the Metadata Store
+http://t.co/nJdy5Krg2j
+316496873085100032
+2013-03-26 19:28:29 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+@epentz @simonhodson99 eCrystal does not have to re-mint. They can move their prefix from CrossRef to DataCite. Has happened before
+316221255084822528
+2013-03-26 01:13:16 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @mfenner: Fun fact: oldest document with @CrossRef DOI from 1665 http://t.co/iPhGXN2Caz Oldest with @datacite DOI from 1460 http://t.co/gtWW2PPND3
+316219137187782657
+2013-03-26 01:04:52 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @mfenner: Fun fact: oldest document with @CrossRef DOI from 1665 http://t.co/iPhGXN2Caz Oldest with @datacite DOI from 1460 http://t.co/gtWW2PPND3
+316219137187782657
+2013-03-26 01:04:52 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+@ChemConnector Thanks for pointing this out. We will be in touch with figshare on what is wrong.
+315064795298668544
+2013-03-22 20:37:55 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Draft Amsterdam Manifesto on Data Citation Principles. https://t.co/DFVV1LJLyD @TAC_NISO Where can we sign?
+314740125806493696
+2013-03-21 23:07:48 +0900
+Fav: 2, Retweet: 2
+neme: DataCite
+@datacite
+@stefanjdecker DOI system is based on the handle system. DONA is the proposed new global steward of the handle system
+314296512370839552
+2013-03-20 17:45:02 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#rdalaunch Bob Kahn in PIT session talking about observation on Identifiers
+314046128813379584
+2013-03-20 01:10:06 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#RDAlaunch PIT-API: How you can resolve CrossRef and DataCite DOIs to the metadata: http://t.co/mmUGJnbzPf
+314038251788836864
+2013-03-20 00:38:48 +0900
+Fav: 4, Retweet: 8
+neme: DataCite
+@datacite
+#rdalaunch so many working groups to go to, so little resources!. Thank god DataCite has many members
+314004578603524096
+2013-03-19 22:25:00 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@kevingashley Data citation in the RDA will be covered by cooperation with existing CODATA data citation task group http://t.co/h7OJ96YA9r
+313970084689362944
+2013-03-19 20:07:56 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @atreloar: Analysis of #RDALaunch tweets available at http://t.co/WfJoAsnaXV if people want to see activity so far.
+313966494121877504
+2013-03-19 19:53:40 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @olyerickson: PIDs and (registered) data types are critical infrastructure for (interoperable) research data infrastructure #RDALaunch
+313957053150412800
+2013-03-19 19:16:09 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#RDALaunch: Case studies for working groups. This will be the core work of RDA.
+313956627852181504
+2013-03-19 19:14:27 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+#RDALaunch Bourne from PDB: "DataCite is a beginning" in respect to data publications
+313948286497210368
+2013-03-19 18:41:19 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+In Gothenburg. Had breakfast today with Bob Kahn, who just won the Elisabeth price for engineering: https://t.co/p1UpzzOBTs
+313947845935902720
+2013-03-19 18:39:33 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @ChPietsch: If you need to create XML metadata for registering a data DOI with DataCite, try my Django app https://t.co/xiHLJEdMkB #Python
+312560133001588736
+2013-03-15 22:45:17 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @jezcope: All of the DataCite code is available on @github #bldatacite https://t.co/LZUWvNexlX
+310413136647815170
+2013-03-10 00:33:53 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @cmw_DAM: Video guides: How to mint/update DOIs in the DataCite Metadata Store http://t.co/iHib0g6GAy #BLDataCite #jiscmrd
+310413110160797696
+2013-03-10 00:33:47 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @ZB_MED: RT @brembs  Why Google isn't good enough for academic search http://t.co/ojwAWK5BXh  via @researchremix
+309220374225244160
+2013-03-06 17:34:16 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+DataCite resolution statistics for February: The next most popular datasets, registered by DataCite: http://t.co/SxWPM8zf8n
+308981860787175424
+2013-03-06 01:46:30 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @joan_starr: Data Citation Made Easy--my presentation at @ucmercedlib http://t.co/eWasL6D0Wd #data #citation
+308874358376521728
+2013-03-05 18:39:20 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @bernardslippers: #IAP13 open science (with primary data) needs new incentive schemes. Ensure data use priority, credit and citation.
+307047370611367936
+2013-02-28 17:39:32 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @bernardslippers: #IAP13 open science (with primary data) needs new incentive schemes. Ensure data use priority, credit and citation.
+307047370611367936
+2013-02-28 17:39:32 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @ashleyrjester: Today's takeaway: Data is its own product and deserves to be recognized, preserved, and shared for the added-valued it represents #RDS2013
+307045797915131905
+2013-02-28 17:33:17 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @rmounce: .@researchremix has shown that by sharing data you get more citations (Good!) http://t.co/G5PxwoemAg #RDS2013
+307042667664142336
+2013-02-28 17:20:51 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @jvinopal: @joan_starr if you get a Datacite DOI you agree to make your data available. Shared data gets cited more, so direct benefit #RDS2013
+307042406866485248
+2013-02-28 17:19:49 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @CrossRefNews: Display your DOIs as links as well as ORCIDs. Here's how &amp;why: http://t.co/SLSoVaZTvk
+306704162844971008
+2013-02-27 18:55:45 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @leclercfl: The openedu Daily is out! http://t.co/cPJVxkQIBb ▸ Top stories today via @datacite @Chem_Central @BMC_series
+306334750199648256
+2013-02-26 18:27:50 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @TAC_NISO: We need to have data citation #standards #niso #nfais13
+306078820547571712
+2013-02-26 01:30:52 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Nice one: Sarah C.:Citing Bytes - Adventures in Data Citation: 
+How is a scarf like a dataset? 
+http://t.co/7kdO65IMFe
+306066559414173696
+2013-02-26 00:42:08 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @datadryad: RT @jtedds: #jiscmrd #PREPARDE has set up a new announce &amp; discuss Research DATA-PUBLICATION mailing list http://t.co/okf3DZybuK
+305650516942282752
+2013-02-24 21:08:56 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @UKDataArchive: Institutional repositories, check it out: Making data citation work - free event 8 March at @britishlibrary http://t.co/fCXhsFNn #datacite
+304183740337373184
+2013-02-20 20:00:29 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+@datadryad: Sorry, we missed your well deserved place 3. Update in our top11 now: http://t.co/I2G7HpK6
+303900353575940096
+2013-02-20 01:14:25 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+Update on DataCite resolution stats: http://t.co/lo7BzIx0 We missed the actual place 3. So it is top11 now :-)
+303899547040641026
+2013-02-20 01:11:12 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @ReaderMeter: Data citation stats via @DataCite – or why @CKANproject and other #opendata repos should embrace DOIs: http://t.co/myxwx8cr ht @figshare
+303834280038133760
+2013-02-19 20:51:51 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @gthorisson: More dates to save: #odinproject event at CERN: codesprint/hackathon + Big Bang 1st year conference http://t.co/5lHbaGZq #ORCID #DataCite
+303834104871387136
+2013-02-19 20:51:10 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @GigaScience: #Datacitation in @FrontNeurosci: Making Data Sharing Count: A Publication-Based Solution http://t.co/7cARnRS0 #opendata
+303447631756156928
+2013-02-18 19:15:27 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @asist_org: Improving Data Citation and Data Management, Sloan-ICPSR Challenge Grant Webinar Feb 22 http://t.co/UdyFQXDc
+303079780956381184
+2013-02-17 18:53:45 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @openscience: A short primer on Identifiers: DOI, ISBN, CASRN, SSN, ISSN, etc. http://t.co/ILw33T79 by @bonnieswoger ht @BoraZ
+302332513261613057
+2013-02-15 17:24:22 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+RT @researchremix: Exciting support for studies into data citation, reuse, repo biz models, etc!  $20k grants:  http://t.co/CjnHulvt  Yay @ICPSR  and Sloan!
+302106895597043712
+2013-02-15 02:27:51 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @HelliwellJohn: Data citation should be on a research article's front page not buried in a references' list, IMHO. Data is the rock on which a study stands.
+302033554534178816
+2013-02-14 21:36:25 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+Register now: Conference "Strategy and Innovation Beyond Text"  in March in Hannover
+http://t.co/WOMGIP3j See you there!
+301971963612626944
+2013-02-14 17:31:41 +0900
+Fav: 1, Retweet: 4
+neme: DataCite
+@datacite
+Register now: Conference "Strategy and Innovation Beyond Text"  in March in Hannover
+http://t.co/WOMGIP3j See you there!
+301971963612626944
+2013-02-14 17:31:41 +0900
+Fav: 1, Retweet: 4
+neme: DataCite
+@datacite
+@researchremix @epentz @rmounce  Differ: Each DataCite member has its own price model. For academic institutions in Germany it's even free
+301751229011333120
+2013-02-14 02:54:33 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+DataCite resolution statistics: What were the most popular datasets in January: http://t.co/I2G7HpK6
+301625158769201152
+2013-02-13 18:33:36 +0900
+Fav: 1, Retweet: 3
+neme: DataCite
+@datacite
+RT @datadryad: Report now available from ODIN Kickoff Meeting held last Oct in Berlin http://t.co/1R6peRZ1 #ORCID #DataCite via @gthorisson
+298488773048664064
+2013-02-05 02:50:43 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Save the Date: Research Data Symposium, Columbia University, NY. February 27th. http://t.co/ev63ly6s See you there!
+298488563048280065
+2013-02-05 02:49:53 +0900
+Fav: 2, Retweet: 2
+neme: DataCite
+@datacite
+Interview with Jan Brase about DataCite on German Radio http://t.co/9VL5J8OZ (in German)
+296993891821944833
+2013-01-31 23:50:36 +0900
+Fav: 2, Retweet: 4
+neme: DataCite
+@datacite
+RT @carlystrasser: Wondering what an identifier is? Cool video introducing DOIs: http://t.co/OTl4fLWj cc @joan_starr @datacite
+290794842085273601
+2013-01-14 21:17:47 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Interview with Brian Hitson in Chemistry International on ICSTI and how DataCite evolved from TACC) http://t.co/jIbj0jNk
+289093578385420288
+2013-01-10 04:37:34 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+Sam Searle @datalibsam 
+RT @jiscdatapool: Trialling DataCite for chemistry lab notebooks and #repository data services http://t.co/5sIKTLTp
+288346419159498752
+2013-01-08 03:08:38 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+Promoting DataCitation in Nature: Blog post by Scott from Gig Science: http://t.co/pwfHO112
+282128763456720896
+2012-12-21 23:21:53 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+RT @ScienceBL: Great to see call for #datacitation in reference links in this weeks Nature: http://t.co/BXDhrh9d we're part of #datacite to support this!
+281817176204255232
+2012-12-21 02:43:45 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+The slides from the DataCite workshop December 12th in Cologne are online: http://t.co/cBqw6KPV (mostly in German)
+281373305422888960
+2012-12-19 21:19:58 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @simonhodson99: DataCite Metadata Entry Tool available at http://t.co/GPa0rAai ;  blog post describing it is available at http://t.co/BtamSVod #jiscmrd
+281098232870871041
+2012-12-19 03:06:55 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+@dara_info Many Thanks again to Gesis for beeing such a great host for the DataCite general assembly
+280680139107479552
+2012-12-17 23:25:34 +0900
+Fav: 1, Retweet: 0
+neme: DataCite
+@datacite
+DataCite Assembly in Cologne, DataCite award for CDL, ETH and TIB: http://t.co/qof2g4K0
+280616694890770432
+2012-12-17 19:13:28 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @digitalcuration: Highly recommended new blog by Alex Ball on Data citations, a great summary from BL's DataCite workshop  http://t.co/v3uXL4fQ
+279502890861752320
+2012-12-14 17:27:36 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+Bjoern Brembs on DataCite content negotiation: http://t.co/w5zU8SQJ. Yes it is exiting stuff!
+279132373256400896
+2012-12-13 16:55:18 +0900
+Fav: 2, Retweet: 4
+neme: DataCite
+@datacite
+DataCite welcomes its 5th affiliated member: The Beiijing Genomic Institute (BGI)
+279131803997057024
+2012-12-13 16:53:02 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+DataCite welcomes its 17th full member:
+The National Research council of Thailand (NRCT)
+279131674263040000
+2012-12-13 16:52:31 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+DataCite job offer: we are looking for a communications and Project Officer (based in Germany)
+http://t.co/prUzgB5c
+246149492599054336
+2012-09-13 16:33:06 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+DataCite job offer: we are looking for a communications and Project Officer (based in Germany)
+http://t.co/prUzgB5c
+246149492599054336
+2012-09-13 16:33:06 +0900
+Fav: 0, Retweet: 7
+neme: DataCite
+@datacite
+Videos from the #datacite summer meeting are now available: http://t.co/SHMW9HMa
+217958660180160514
+2012-06-27 21:32:48 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @biosharing: #datacite #gigascience, DataCite 2012 Summer Meeting - A short report by Susanna Sansone: http://t.co/wmPd7LBA
+213286621561356288
+2012-06-15 00:07:47 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+That's all folks. End of this years summer meeting. Rcorded talks will be made available on the website soon #datacite
+213286316257984512
+2012-06-15 00:06:35 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @atreloar: Amazing talk by @GigaScience at #datacite meeting. I wanted to ask multiple questions about every slide! NOTE: talks will be made available.
+213270982020972544
+2012-06-14 23:05:39 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+Edmonds @GigaScience We still fail on indexing the data citations. Highly important!True, still work for us to do. #datacite
+213268846906322944
+2012-06-14 22:57:10 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Edmonds @GigaScience shows great examples of their dataset DOIs beeing referenced by journal articles #datacite
+213267585511329792
+2012-06-14 22:52:09 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+SDT shows first CERN datasets with DataCite DOI names #datacite
+213253305076420608
+2012-06-14 21:55:24 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+@DataCite and @STMAssoc joint statement on linking data and article  just signed in Copenhagen now online http://t.co/kfcIvrY6 #datacite
+213241300978384896
+2012-06-14 21:07:42 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+RT @atreloar: Eefke Smit: Argues that Data Centres have more expertise in curating data well than publishers will ever have #datacite
+213219303363842048
+2012-06-14 19:40:18 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @GigaScience: Great talk from Andrew Treloar on what ANDS are doing with data. Slides here: http://t.co/bDSiiXEY #datacite
+213215308800983040
+2012-06-14 19:24:25 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @jprombouts: #datacite BMC Article on DUI: http://t.co/HkEC1bJX
+213208376505679872
+2012-06-14 18:56:52 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite GBIF: Towards a unified publishing index
+213206095655743489
+2012-06-14 18:47:49 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite "Recommended practice for Citation of data published through the GBIF network’ http://t.co/UyZiZMGk
+213204582510231553
+2012-06-14 18:41:48 +0900
+Fav: 2, Retweet: 1
+neme: DataCite
+@datacite
+#datacite GBIF road to data publishing: Identifiers, data paper, data citation and data usage index
+213201443501506560
+2012-06-14 18:29:19 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite. Vischwas Chawan from GBIF. Technology and Infrastructure is not the problem.
+213200230353608704
+2012-06-14 18:24:30 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @atreloar: Jonathan Grant (RAND Europe) ends great talk by quoting Edna St Vincent Millay's "Meteoric Shower of Facts" http://t.co/ceV6Yo2A #datacite
+213195000031354880
+2012-06-14 18:03:43 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite summer meeting about to start in beautiful Copenhagen.
+213169046684844033
+2012-06-14 16:20:35 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @DataCiteTech: Excellent summary of #bldatacite event http://t.co/MiVj39j6 @MTG_work thank you!
+207759181942493184
+2012-05-30 18:03:43 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+New post on DataCite blog:
+New server for content negotiation in cooperation with CrossRef. Resolve DOI to metadata
+http://t.co/BB2SwdmC
+203210325938548736
+2012-05-18 04:48:11 +0900
+Fav: 4, Retweet: 5
+neme: DataCite
+@datacite
+New post on DataCite blog:
+New server for content negotiation in cooperation with CrossRef. Resolve DOI to metadata
+http://t.co/BB2SwdmC
+203210325938548736
+2012-05-18 04:48:11 +0900
+Fav: 4, Retweet: 5
+neme: DataCite
+@datacite
+@scilib Oops, fixed it.Thanks for spotting it. You should never work on Sundays :-)
+199113720977301504
+2012-05-06 21:29:45 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+DataCite summer meeting program is finalised. Read about it at the blog: http://t.co/dXp5tZgY
+See you in Copenhagen in June!
+199108969892036608
+2012-05-06 21:10:52 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+New post on DataCite blog: DataCite summer meeting and moving the blog
+http://t.co/isxqHXa0
+183140024840228865
+2012-03-23 19:35:59 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+@phillord For content negotiaion it doesn't matter, works with both :-) Rule of thumb propably: article=crossref DOI, data=DataCite DOI
+165510209706541056
+2012-02-04 04:01:23 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+New post on the DataCite blog: Resolve a DOI name to its metadata! More features of DataCite search. http://t.co/VqGhdNUd
+165437731227439104
+2012-02-03 23:13:23 +0900
+Fav: 1, Retweet: 6
+neme: DataCite
+@datacite
+New post on DataCite blog: Introduction to DataCite search: http://t.co/YBnTTgoZ
+162584109724598272
+2012-01-27 02:14:07 +0900
+Fav: 3, Retweet: 1
+neme: DataCite
+@datacite
+Crossref recommends publisher to use the DataCite DOI in the reference list for data citation :-)
+http://t.co/uxsJ2Y9s
+160379933498146816
+2012-01-21 00:15:30 +0900
+Fav: 2, Retweet: 16
+neme: DataCite
+@datacite
+Had a keynote talk at #eres11 in Melbourne Australia. Great conference, interesting discussions
+134228351593365504
+2011-11-09 20:18:27 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@jasonpriem I referred to you when I came to this slide. The quote is just too good..
+134143625004191744
+2011-11-09 14:41:47 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @DataCiteCanada: RT @DrFionaLM: Jan Brase of #DataCite interviewed (by me) for #Wiley-Blackwell. #opendata #datapub http://t.co/NWZuKRD7
+134140773515001856
+2011-11-09 14:30:27 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+New on DataCite Blog: http://t.co/D2nFv9Eo: Jan Brase (managing agent #datacite) is winner of 2011 German Libary Hi Tech award
+116112937063677952
+2011-09-20 20:34:16 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Slides from the #datacite summer meeting 2011 in Berkeley are now available online: http://t.co/DFtJWVp
+113934475372666880
+2011-09-14 20:17:50 +0900
+Fav: 4, Retweet: 8
+neme: DataCite
+@datacite
+Currently in Kyoto, Japan:  Kick of for the first World Data System conference. http://t.co/2BRLXzR Tomorrow will talk on data publication
+110153293174550528
+2011-09-04 09:52:46 +0900
+Fav: 2, Retweet: 3
+neme: DataCite
+@datacite
+New post on the DataCite blog: http://t.co/Jw1Aw8s (summary of #datacite summer meeting)
+107283014614126592
+2011-08-27 11:47:18 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+#datacite Thanks to all who joined us here in Berkeley. See you next summer in Kopenhagen!
+106885294627897345
+2011-08-26 09:26:54 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite list of repositories can be found here http://t.co/ZQ1tGgd (if you do not know already)
+106867386799493120
+2011-08-26 08:15:45 +0900
+Fav: 3, Retweet: 3
+neme: DataCite
+@datacite
+#datacite Development of DataCite infrastructure http://t.co/wg9yaW6
+106858879551422465
+2011-08-26 07:41:56 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite (on publishers curating data): You can have articles and data at one place and that place is the library
+106849160828944384
+2011-08-26 07:03:19 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+#datacite ressearch papers do not make sense without the data (PLOS talk)
+106839221280575488
+2011-08-26 06:23:49 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite ressearch papers do not make sense without the data (PLOS talk)
+106839221280575488
+2011-08-26 06:23:49 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite the article is only the summary of the science. Data is the outcome
+106774582702243840
+2011-08-26 02:06:58 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+#datacite John Kunze: There are so many similiarities between data management and software management esp. concerning versions
+106521691735326720
+2011-08-25 09:22:05 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite: There are different ways of publishing a dataset.Future will show which are the best ones @jasonpriem
+106519153699078146
+2011-08-25 09:11:59 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @wilbanks: My #datacite slides are up: http://t.co/3UfdA5A Also made an audio recording, will mix them later and post.
+106502777836015617
+2011-08-25 08:06:55 +0900
+Fav: 0, Retweet: 9
+neme: DataCite
+@datacite
+#datacite @researchremix Just citation might not be enough incentive for making data available
+106489648305553408
+2011-08-25 07:14:45 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+@wilbanks Thank you very much for your great keynote. We will be in touch.
+106488214604365824
+2011-08-25 07:09:03 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @carlystrasser: NSF thinking about requiring data citation in ref lists for proposals. GREAT idea! #datacite #StickOverCarrot
+106487917060431872
+2011-08-25 07:07:52 +0900
+Fav: 0, Retweet: 6
+neme: DataCite
+@datacite
+#datacite E.Moss: when data are archived 2-3 more publications are created
+106485027503742976
+2011-08-25 06:56:23 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+#datacite 27% of journal author instructions adress data citations. (Hailey Mooney)
+106479832694652928
+2011-08-25 06:35:45 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+#datacite @researchremix Articles with data shared are cited more often
+106475780246208513
+2011-08-25 06:19:38 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+#datacite @researchremix  is giving interesting examples of tracking the reuse of data.
+106474253897048064
+2011-08-25 06:13:34 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @jasonpriem: Wow, @wilbanks is an epically good speaker. #datacite keynote  made a lot of complex stuff very simple.
+106468304322953216
+2011-08-25 05:49:56 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+#datacite great keynote from @wilbanks. Glad we could have him here
+106468212635484161
+2011-08-25 05:49:34 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite our path has to be simple, weak, scalable and open @wilbanks
+106467038360379392
+2011-08-25 05:44:54 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+@wilbanks. Citation is about acknowledging someone else's idea (or data) #datacite #datacite11
+106459811121594368
+2011-08-25 05:16:11 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+#datacite is about bringing the players together: publishers, libraries, data centers and scientists. That is why we are here.
+106456669348823041
+2011-08-25 05:03:42 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+#datacite summer meeting is about to start. weather is good. We have a great crowd. Interesting program. Here we go!
+106450967658119169
+2011-08-25 04:41:03 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New entry on DataCite Blog: Metadata Schema Version 2.2 released
+http://t.co/8JT5Kdy
+86758258529943552
+2011-07-01 20:29:15 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Online registration for DataCite summer meeting is now open: http://t.co/cxLb6nm Early bird discount until 31 July 2011.
+86339522031403008
+2011-06-30 16:45:20 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+Online registration for DataCite summer meeting is now open: http://t.co/cxLb6nm Early bird discount until 31 July 2011.
+86339522031403008
+2011-06-30 16:45:20 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+New entry on DataCite Blog:
+EHEC genome with DOI name: http://t.co/74Ie1J6
+80984225532223489
+2011-06-15 22:05:18 +0900
+Fav: 1, Retweet: 2
+neme: DataCite
+@datacite
+Learn more about DataCite's latest activities in Jan Brase's talk at the SSP annual meeting in Boston on Friday, June 3rd. (10:45)
+76024936271056897
+2011-06-02 05:38:51 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New post on DataCite Blog: Website refurbishing and dates for the summer meeting. http://datacite.wordpress.com
+76023761522016256
+2011-06-02 05:34:11 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New entry on DataCite blog: http://datacite.wordpress.com: Update on DataCite metadata schema
+52366229901557762
+2011-03-28 22:47:36 +0900
+Fav: 1, Retweet: 1
+neme: DataCite
+@datacite
+New entry on DataCite blog: http://datacite.wordpress.com on Identifer systems and initiatives. Cooperation is the key.
+43434964775223296
+2011-03-04 07:17:57 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+New entry on DataCite blog: http://datacite.wordpress.com/2011/02/05/pi-workshop-in-bonn/. Brief report from PI workshop in Bonn, Germany
+33914835100119040
+2011-02-06 00:48:21 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+The DataCite metadata schema is online now! Read about it: http://datacite.wordpress.com/
+29484349678161921
+2011-01-24 19:23:11 +0900
+Fav: 2, Retweet: 7
+neme: DataCite
+@datacite
+RT @datasetsBL: RT @joan_starr: If you're interested in @DataCite + #metadata, new schema should be available next week.
+27771454422523905
+2011-01-20 01:56:45 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New D-Lib issue on research data is online http://www.dlib.org !
+Guest edited by DataCite http://datacite.wordpress.com
+27396885819949056
+2011-01-19 01:08:21 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+New entry on DataCite blog: http://datacite.wordpress.com/2011/01/15/tracking-data-citation/
+Why a simple DOI name is not enough.
+26334855801339904
+2011-01-16 02:48:13 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @joan_starr: Y'day put last touches on @DataCite's #metadata scheme. Next it turns into XSD. Will be on http://datacite.org/ wk of Jan 24 #data #citation
+25988309272494080
+2011-01-15 03:51:10 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+Gobbledygook (Martin Fenner from ORCID) writing about DataCite:http://blogs.plos.org/mfenner/2011/01/14/datacite-visit-their-new-blog/
+25893693818933249
+2011-01-14 21:35:12 +0900
+Fav: 2, Retweet: 2
+neme: DataCite
+@datacite
+New post on http://datacite.wordpress.com/:
+1,000,000 DOI names and some insight on the 2011 plans.
+25610981593849857
+2011-01-14 02:51:48 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+DataCite has started a new DataCite-Blog. Check out:
+http://datacite.wordpress.com/
+25476174767460353
+2011-01-13 17:56:08 +0900
+Fav: 2, Retweet: 8
+neme: DataCite
+@datacite
+RT @jprombouts: DataCite has broken the 1,000,000 barrier! The doi:10.5169/SEALS-130540 was assigned by partner ETH Zurich.
+24795980318642176
+2011-01-11 20:53:17 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+@joan_starr @scilib runs @datacite (infrequently, and unofficially).  Would be happy to handover to Jan or other official Datacite rep.
+19185643166900225
+2010-12-27 09:19:48 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @schopfel: DataCite Members met in London - new members and strategy for next years #escience http://www.tib-hannover.de/en/the-tib/news/news/id/190/
+19184113151909888
+2010-12-27 09:13:43 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @atreloar: Michener: Dryad now using Datacite for data DOIs. Papers submitted to American Naturalist journal can also have data  with them. #nzes
+29188065021
+2010-10-30 23:29:47 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @jessmnhey: data publishing - excellent practical examples: British ocean science, crystals, libraries - DataCite, World Data Sytem role #CODATA2010 #fb
+29188043900
+2010-10-30 23:29:32 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @jessmnhey: data publishing - excellent practical examples: British ocean science, crystals, libraries - DataCite, World Data Sytem role #CODATA2010 #fb
+29188043900
+2010-10-30 23:29:32 +0900
+Fav: 0, Retweet: 5
+neme: DataCite
+@datacite
+RT @EmilieManon: Datacite.org : un consortium international pour l'accès aux données scientifiques : http://datacite.org/
+29188029176
+2010-10-30 23:29:21 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: Here are the slides for my #dcmi10 presentation on @datacite and #metadata: http://slidesha.re/attedj
+29187964898
+2010-10-30 23:28:37 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @mwittin: Brase: DataCite to receive 2010 ALA/ASCLA Rethinking Resource Sharing Innovation Award at ALA next week, http://bit.ly/a9ls72 #IATUL
+16842649169
+2010-06-23 20:19:39 +0900
+Fav: 0, Retweet: 4
+neme: DataCite
+@datacite
+RT @mwittin: Brase: DataCite has assigned over 800,000 DOIs to datasets & all 12 members have the capacity to register DOIs at this point #IATUL
+16842643638
+2010-06-23 20:19:32 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @CalDigLib: Strength in diversity: notes from the DataCite Conference- In his groundbreaking book Guns, Germs and Steel, Jared ... http://bit.ly/aAIn0Y
+16713222063
+2010-06-22 03:39:22 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: Belated #ff to @simonhodson99 + @paulwalk for very enjoyable #datacite exchanges; looking forward to more collaboration
+16501864858
+2010-06-19 07:19:57 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @simonhodson99: First #datacite session: Metadata for datasets - More than pure citation information? Frighteningly sane or the first steps to madness?
+15622807422
+2010-06-07 20:31:12 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: Ok #datacite it is. Metadata Working Grp mtg went v well. Settled on core elements.
+15621530964
+2010-06-07 20:01:55 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @simonhodson99: @paulwalk There seems to be #datacite or #dcite10
+15616918730
+2010-06-07 18:01:20 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @paulwalk: Getting ready to head down to the Datacite meeting. No idea if there is a hashtag....
+15616914170
+2010-06-07 18:01:13 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @joan_starr: Made it to Hannover. A bit ragged. Somehow Sat'y turned into Sun nite. Tom: #DataCite conf. Will use #dcite10 unless I hear better.
+15581060513
+2010-06-07 06:21:11 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @LAScienceBL: Thanks to Kevin Schurer for DataCite mention at JISC data meeting: http://www.datacite.org/  #jiscmrd
+14307399577
+2010-05-20 02:47:11 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @ucdatalab: #DataCite intends to promote data sharing, increased access, and better protection of research investment. http://bit.ly/b8TkpE
+13932200709
+2010-05-14 05:10:11 +0900
+Fav: 0, Retweet: 3
+neme: DataCite
+@datacite
+RT @research_inform: DataCite Summer Meeting 2010 - Making datasets visible and accessible, 7-8 June, Hannover http://bit.ly/bPlDZH
+12693420256
+2010-04-23 18:54:16 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Wikipedia page for DataCite http://en.wikipedia.org/wiki/DataCite
+12285039192
+2010-04-16 23:16:29 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+RT @insigHTSQL: TIB Hannover: DataCite Summer Meeting 2010 http://bit.ly/cGOTTn
+11584025043
+2010-04-04 20:47:33 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @jeffradiane: @datacite http://www.universityofcalifornia.edu/news/article/23055 Excited to see what this means for UC Irvine and the Libraries.
+11527216258
+2010-04-03 18:18:55 +0900
+Fav: 0, Retweet: 2
+neme: DataCite
+@datacite
+RT @joan_starr: Exciting new initiative at CDL, DataCite: persistent IDs for datasets. I am CDL project mgr. http://bit.ly/ajqzHK #datasets #linkeddata
+10898574443
+2010-03-23 09:20:13 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @EASEeditors: Facilitating access to research data - DataCite holds first official meeting http://bit.ly/9IeNza
+9630830940
+2010-02-26 00:45:39 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+RT @EASEeditors: Facilitating access to research data - DataCite holds first official meeting http://bit.ly/9IeNza
+9630830940
+2010-02-26 00:45:39 +0900
+Fav: 0, Retweet: 1
+neme: DataCite
+@datacite
+rt @olyerickson: #jiscpid #DOI #DataCite and #LinkedData can work well together: http://bit.ly/aHCRWc
+8816076047
+2010-02-09 01:53:06 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
+neme: DataCite
+@datacite
+Find out more information about DataCite at http://www.datacite.org/
+8816058480
+2010-02-09 01:52:36 +0900
+Fav: 0, Retweet: 0
